@@ -23,7 +23,7 @@ except OSError:
 
 endpoint = "https://dbpedia.data.dice-research.org/sparql"
     
-data = pd.read_csv("all_triples/en_qa.csv")
+data = pd.read_csv("datasets/MLaKE/en_qa.csv")
 
 #Extract entities from our dataset(MLaKE/en_qa.csv)
 def extract_entities(question):

@@ -14,7 +14,7 @@ import pandas as pd
 import requests
 
 
-data = pd.read_csv("all_triples/en_qa.csv")
+data = pd.read_csv("datasets/MLaKE/en_qa.csv")
 
 triples = 'all_triples/processed_triples.txt'
 

@@ -3,7 +3,7 @@ from SparqlQuery import extract_entities, process_triples_file
 
 
 
-data = pd.read_csv("all_triples/en_qa.csv")
+data = pd.read_csv("datasets/MLaKE/en_qa.csv")
 
 triples = 'all_triples/processed_triples.txt'
 
