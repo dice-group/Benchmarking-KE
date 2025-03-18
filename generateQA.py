@@ -14,7 +14,7 @@ import pandas as pd
 import requests
 
 
-data = pd.read_csv("datasets/MLaKE/en_qa.csv")
+data = pd.read_csv("all_triples/en_qa.csv")
 
 triples = 'all_triples/processed_triples.txt'
 
@@ -23,7 +23,7 @@ rules = 'all_triples/triples_mined-rules1.txt'
 model="google/gemma-3-27b-it"
 
 def get_prompt(Rules, Facts):
-    prompt = f"""Given rules and facts your task is to generate a multihop question whose answer should be one entity in the given facts. The answer should be an entity, nothing else.
+    prompt = f"""Given rules and facts your task is to generate a multihop questions that is different from the example provided below, and whose answers should be one entity in the given facts.   The answer should be an entity, nothing else.
     The question should encode knowledge from the rules and the facts. You should also provide the answer to the question in the following format:
     <question> ... your question goes here </question>
     <answer> ... your answer goes here </answer>
@@ -45,13 +45,10 @@ def get_prompt(Rules, Facts):
     
     Now please proceed the same way for the following rules and facts:   
     Rules: 
-    '\n'.join(Rules[:5])
+    '\n'.join(Rules[:10])
 
     Facts: 
     '\n'.join(list(map(str, Facts)))
-
-    <question>John was born in Germany. Which nationality does John have?</question>
-    <answer>Germany</answer>
     
     """
 
