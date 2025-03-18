@@ -9,9 +9,11 @@ To get triples from the KG, we extracted entities in [MLaKE](https://github.com/
 #### Running AMIE
 To get the rules first clone the amie repository as follow:
 
-```git clone https://github.com/dig-team/amie.git```\\
+```git clone https://github.com/dig-team/amie.git```
 
-```cd amie```\\
+```cd amie```
+
+To output the rules type:
 
 ```java -jar amie-dev.jar  -mins 1 ../all_triples/processed_triples.txt > ../all_triples/output_file.txt```
   
