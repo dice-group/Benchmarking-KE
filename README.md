@@ -7,8 +7,18 @@ To get triples from the KG, we extracted entities in [MLaKE](https://github.com/
 
 
 #### Running AMIE
-To get the rules firt clone the amie repository as follow:
+To get the rules first clone the amie repository as follow:
 
-```git clone https://github.com/dig-team/amie.git
-   cd amie
-  java -jar amie-dev.jar  -mins 1 ../all_triples/processed_triples.txt > ../all_triples/output_file.txt```
+```git clone https://github.com/dig-team/amie.git```
+```cd amie```
+```java -jar amie-dev.jar  -mins 1 ../all_triples/processed_triples.txt > ../all_triples/output_file.txt```
+  
+  Make sure that you have the lates version [Java] installed to run AMIE, Download an AMIE executable jar file [AMIE-JAR], and run the commands above.
+  
+  
+  #### Generating multihop questions and answers
+  To generate the questions and answer run:
+  
+  ```python generateQA.py```
+  
+  You will need to have your Hugginface Face API key configured. The outputs print the question and the answer related to the given rules and facts.
