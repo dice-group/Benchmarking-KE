@@ -22,11 +22,13 @@ rules = 'all_triples/triples_mined-rules1.txt'
 
 model="google/gemma-3-27b-it"
 
+
+
 def get_prompt(Rules, Facts):
-    prompt = f"""Given rules and facts your task is to generate a multihop questions that is different from the example provided below, and whose answers should be one entity in the given facts.   The answer should be an entity, nothing else.
-    The question should encode knowledge from the rules and the facts. You should also provide the answer to the question in the following format:
-    <question> ... your question goes here </question>
-    <answer> ... your answer goes here </answer>
+    prompt = f"""Given rules and facts your task is to generate a list of multihop questions for each rule that is different from the example provided below, and whose answers should be one entity in the given facts.   The answer should be an entity, nothing else.
+    The list should contain different questions and answers and the questions should encode knowledge from the rules and the facts. Without copying the rules and facts, you should provide the answer to the question in the following format:
+    Question: 
+    Answer:
     
     For example, when given the following rules and facts:
     
@@ -40,19 +42,14 @@ def get_prompt(Rules, Facts):
     ('John', 'BornIn', 'Germany'),
     ('John, 'TravelTo', 'Germany')
     You may write:
-    <question>John was born in Germany. Which nationality does John have? </question>
-    <answer>Germany</answer>
-    
-    Now please proceed the same way for the following rules and facts:   
-    Rules: 
-    '\n'.join(Rules[:10])
-
-    Facts: 
-    '\n'.join(list(map(str, Facts)))
+    Question : John was born in Germany. Which nationality does John have?
+    Answer: Germany
     
     """
 
     return prompt
+
+
 
 
 def generate_multihop_qa_huggingface(rule, facts, api_key, model, max_retries=10, num_questions=2):
@@ -125,8 +122,7 @@ def generate_multihop_qa_huggingface(rule, facts, api_key, model, max_retries=10
                     return qa_pairs
         if retries == max_retries:
             print("Maximum retries reached. Unable to complete request.")
-    return qa_pairs
-    
+    return qa_pairs    
 
 def format_rule(rule_tuple):
     """
