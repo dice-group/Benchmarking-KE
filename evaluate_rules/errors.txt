@@ -1,0 +1,41 @@
+Using pad_token, but it is not set yet.
+Tokenizer pad_token: <|endoftext|>
+Executing ROME algorithm for the update: [Who has lived longer than David, given that George_Gervin is older than David?] -> [ Eve]
+Cached context templates ['{}', 'In the last couple. {}', 'This is an open. {}', '"It is a. {}', 'In the wake of. {}', 'In an interview with. {}', 'The following is excerpt. {}', 'In the wake of. {}', 'The United States has. {}', 'The first step in. {}', 'A few days ago. {}', 'This article originally appeared on VICE UK.\n. {}', '"The best part about being on a podcast. {}', 'The following is an excerpt, with permission,. {}', "The first thing you'll notice is how the. {}", 'A man was stabbed and a gun was stolen. {}', "This week we're looking back at the most. {}", 'A new study from the University of Texas,. {}', '"You\'re not going to find a more. {}', 'The following is the text of a speech delivered. {}', 'In the first two years of its operation,. {}']
+Computing left vector (u)...
+Selected u projection object George_Gervin
+Retrieving inverse covariance statistics for openai-community_gpt2-large @ transformer.h.12.mlp.c_proj. The result will be cached to avoid repetitive computation.
+Loading cached data/stats/openai-community_gpt2-large/wikipedia_stats/transformer.h.12.mlp.c_proj_float32_mom2_100000.npz
+  0%|                                                                                                                                                          | 0/1000 [00:00<?, ?it/s]  0%|                                                                                                                                                          | 0/1000 [00:00<?, ?it/s]
+Left vector shape: torch.Size([5120])
+Computing right vector (v)
+Lookup index found: 4 | Sentence: George_Gervin | Token: in
+Rewrite layer is 12
+Tying optimization objective to 35
+Recording initial value of v*
+Delta norm: 70.09110260009766
+Change in target norm: 17.448930740356445 to 71.95394134521484 => 54.50501251220703
+Division Factor: 9.615228652954102
+Right vector norm: 7.28959321975708
+Right vector shape: torch.Size([1280])
+Weights before update: Parameter containing:
+tensor([[ 0.0069, -0.0150,  0.0218,  ...,  0.0280, -0.0273, -0.0849],
+        [-0.0459,  0.0133,  0.0135,  ...,  0.0346, -0.0607, -0.0193],
+        [ 0.0136,  0.0641,  0.1394,  ...,  0.0235, -0.0102,  0.1012],
+        ...,
+        [ 0.0495,  0.0162,  0.0306,  ...,  0.1235, -0.0059, -0.0113],
+        [ 0.0297,  0.0040, -0.0380,  ...,  0.0763, -0.0136,  0.0295],
+        [-0.0666, -0.0091, -0.0080,  ..., -0.0254, -0.0650,  0.0022]],
+       device='cuda:0')
+Weights after update: Parameter containing:
+tensor([[ 0.0058, -0.0135,  0.0222,  ...,  0.0264, -0.0277, -0.0843],
+        [-0.0455,  0.0129,  0.0133,  ...,  0.0351, -0.0605, -0.0195],
+        [ 0.0135,  0.0642,  0.1394,  ...,  0.0234, -0.0102,  0.1012],
+        ...,
+        [ 0.0506,  0.0148,  0.0301,  ...,  0.1250, -0.0055, -0.0119],
+        [ 0.0293,  0.0045, -0.0378,  ...,  0.0758, -0.0138,  0.0297],
+        [-0.0682, -0.0069, -0.0073,  ..., -0.0278, -0.0656,  0.0031]],
+       device='cuda:0')
+Deltas successfully computed for ['transformer.h.12.mlp.c_proj.weight']
+New weights successfully inserted into ['transformer.h.12.mlp.c_proj.weight']
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
