@@ -33,39 +33,7 @@ QA_pairs_file = "all_triples/multihop_qa_pairs_mquake.json"
 removed_rows_file = "all_triples/removed_rows_mquake.json"
 
 model_type = "gpt2"
-# Ensure the path matches the actual directory name on your system EXACTLY
-#tokenizer_path_debug = "../rome/FT_model_saved/edited_models_ELeutherAI_gpt-j-6B_constr/edited_tokenizer_0"
-#
-#print(f"Current working directory: {os.getcwd()}")
-#print(f"Attempting to load tokenizer from: {tokenizer_path_debug}")
-#print(f"Checking if tokenizer path exists: {os.path.isdir(tokenizer_path_debug)}")
-#if os.path.isdir(tokenizer_path_debug):
-#    print(f"Contents of tokenizer directory: {os.listdir(tokenizer_path_debug)}")
-#else:
-#    print("Tokenizer directory not found.")
-#
-#try:
-#    tokenizer_debug = AutoTokenizer.from_pretrained(tokenizer_path_debug, local_files_only=True)
-#    print("Tokenizer loaded successfully in debug script.")
-#except Exception as e:
-#    print(f"Error loading tokenizer in debug script: {e}")
 
-#exact_match_metric = load_metric("exact_match")
-#f1_metric = load_metric("f1")
-#edited_model_path = "../rome/edited_models1/edited_model_18"
-#edited_tokenizer_path = "../rome/edited_models1/edited_tokenizer_18"
-#
-#edited_model = AutoModelForCausalLM.from_pretrained(edited_model_path).to("cuda:1")
-#edited_tokenizer = AutoTokenizer.from_pretrained(edited_tokenizer_path)
-#
-#question = 	"Which television network originally aired the program titled 'The Day After'?"
-#inputs = edited_tokenizer(f"Question: {question} Answer:", return_tensors="pt").to(edited_model.device)
-#
-#outputs = edited_model.generate(**inputs, max_length=30, num_beams=5, no_repeat_ngram_size=2, early_stopping=True)
-#predicted_answer = edited_tokenizer.decode(outputs[0], skip_special_tokens=True).split("Answer:")[-1].strip()
-#em_score = exact_match_metric.compute(predictions=[predicted_answer], references=inputs["Answer"])
-#f1_score = f1_metric.compute(predictions=[predicted_answer], references=inputs["Answer"])
-#print(f"Question: {question}, Predicted Answer: {predicted_answer}, em score: {em_score}, f1 score:{f1_score}")
 def clean_predicted_answer_pattern(predicted_text, reference_answer, question):
     """
     More aggressive and targeted answer extraction.
@@ -202,7 +170,7 @@ def evaluate_rome_edits(df, model_ids, config_file):
         QA_pairs = json.load(f)
 
     #print(QA_pairs)
-    model_folder = "../rome/FT_model_saved_mquake/edited_models_gpt2-xl_constr/"  
+    model_folder = "../rome/FT_model_saved_mquake/edited_models_gpt2-xl_constr/"  #replace this with your folder path
 
     base_model_name = "openai-community/gpt2-xl"  # Or your specific base model
     try:
@@ -221,13 +189,7 @@ def evaluate_rome_edits(df, model_ids, config_file):
         tokenizer_path = os.path.join(model_folder, f"edited_tokenizer_{index}")
         
         if index in model_ids and original_question:# and os.path.exists(model_path):# Iterate through rules and QA pairs.
-            
-            #qa_pairs_list = QA_pairs[original_question].get("qa_pairs", [])
-            #facts_list = QA_pairs[original_question].get("facts", [])
-            
-            #if not qa_pairs_list:
-            #    print(f"No QA pairs found for question: {original_question}")
-             #   continue
+         
 
             try:
                 print(f"Loading tokenizer from: {tokenizer_path}")
@@ -242,10 +204,7 @@ def evaluate_rome_edits(df, model_ids, config_file):
                         base_model.state_dict()[name].copy_(param.data)
                 base_model.to("cuda:0" if torch.cuda.is_available() else "cpu")
                 model = base_model # Use the base model with applied edits
-                #print(f"Tokenizer pad token: {tokenizer.pad_token}, ID: {tokenizer.pad_token_id}")
-                #print(f"Tokenizer EOS token: {tokenizer.eos_token}, ID: {tokenizer.eos_token_id}")
-                question_evaluation_results = []
-                #for qa_pair, fact in zip(qa_pairs_list, facts_list):
+             
                 question = original_question
                 answer = row["target_new"]
                 context = row["prompt"]
@@ -254,11 +213,6 @@ def evaluate_rome_edits(df, model_ids, config_file):
 
                 inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
                 inputs['attention_mask'] = torch.ones_like(inputs['input_ids'])
-
-                #print(f"Inputs for generation: {inputs}")
-                #outputs = model.generate(**inputs, max_length=200, num_beams=5, no_repeat_ngram_size=2, early_stopping=True)
-                #print(f"Inputs for generation: {inputs}")
-                #outputs = model.generate(**inputs, max_length=len(inputs['input_ids'][0]) + 15, num_beams=5, no_repeat_ngram_size=2, early_stopping=True)
 
 
                 outputs = model.generate(
@@ -271,27 +225,14 @@ def evaluate_rome_edits(df, model_ids, config_file):
                 pad_token_id=tokenizer.pad_token_id #or tokenizer.eos_token_id
             )
 
-                #outputs = model.generate(inputs['input_ids'], max_length=len(inputs['input_ids'][0]) + 15)
-                #predicted_answer = tokenizer.decode(outputs[0], skip_special_tokens=True).split("Answer:")[-1].strip()
-                #outputs = model.generate(**inputs, max_length=200, num_beams=5, no_repeat_ngram_size=2, early_stopping=True)
-                #outputs = model.generate(inputs['input_ids'])
-                #predicted_answer = tokenizer.decode(outputs[0], skip_special_tokens=True).split("Answer:")[-1].strip()
+      
                 predicted_text = tokenizer.decode(outputs[0], skip_special_tokens=True)
                 predicted_answer = clean_predicted_answer_pattern(predicted_text, answer, question) # Clean here
        
                 norm_pred = normalize_answer(predicted_answer)
                 norm_pred = extract_answer(norm_pred)
                 norm_ref = normalize_answer(answer)
-            
-                #formatted_preds, formatted_refs = format_for_squad_metric1([predicted_answer], [answer])
-                #references_text = {"text": [formatted_refs]}
-                #print(formatted_preds, formatted_refs)
-                #em_score = exact_match_metric.compute(predictions=[norm_pred], references=[norm_ref])
-                #print(f"Predicted Answer for F1: '{predicted_answer}'")
-                #print(f"Reference Answer for F1: '{answer}'")
-                # Tokenize the predicted and reference answers
-                #predicted_tokens = tokenizer.encode(predicted_answer, add_special_tokens=False)
-                #reference_tokens = tokenizer.encode(answer, add_special_tokens=False)
+   
                 
                 f1_score = f1_metric.compute(predictions=[{"id": "0", "prediction_text": norm_pred}], references=[{"id": "0", "answers": {"text": [norm_ref], "answer_start": [0]}}])
                 #f1_score = f1_metric.compute(predictions=[predicted_answer], references=[answer])
@@ -321,62 +262,6 @@ def evaluate_rome_edits(df, model_ids, config_file):
 
 
     return evaluation_results
-
-                   
-               #    request = {
-               #        "subject": fact[0],  # Use first fact's subject.
-               #        "relation": fact[1],  # Use first fact's relation.
-               #        "prompt": question,
-               #        "target_new": {"str": answer},
-               #        "ground_truth": answer,
-               #    }
-               #
-               #    try:
-               #        process = subprocess.Popen(
-               #            ["python",
-               #            rome_script_path,  # adjust path.
-               #            "--model_name",
-               #            model,
-               #            "--request",
-               #            json.dumps(request),  # Convert request to JSON string
-               #            "--config",
-               #            config_file,],
-               #            stdout=subprocess.PIPE,
-               #            stderr=subprocess.PIPE,
-               #            text=True,  # Ensure text mode for easier handling
-              #         )
-              #         stdout, stderr = process.communicate()
-              # 
-              #         if process.returncode != 0:
-              #             print(f"Error executing rome_main2.py: {stderr}")
-              #             return {}  # Return an empty dictionary or handle the error appropriately
-              # 
-              #         stdout = stdout.strip()  # Remove leading/trailing whitespace
-              #         print(f"Raw output from rome_main2.py: {stdout}") #print the raw output for debugging.
-              # 
-              #         results = json.loads(stdout)
-              #          print(f"Parsed JSON: {results}")
-     #     
-     #             except json.JSONDecodeError as e:
-     #                 print(f"JSONDecodeError: {e}, stdout: '{stdout}'")
-     #                 return {}  # Return an empty dictionary or handle the error
-     #         
-     #             except Exception as e:
-     #                 print(f"An unexpected error occurred: {e}")
-     #                 return {} # Return an empty dictionary or handle the error
-     #       except Exception as e:
-     #             print(f"Error evaluating question '{original_question}': {e}")
-#
-     #  else:
-     #     print(f"No QA pairs or model found for question: {original_question}")
-     # 
-     #             evaluation_results.append({
-     #                 "question": question,
-     #                 "answer": answer,
-     #                 "rome_result": results,
-     #             })
-     #             print(f"evaluation_results: {evaluation_results}")
-    #return evaluation_results
 
 
 
