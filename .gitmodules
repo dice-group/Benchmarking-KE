@@ -1,3 +1,6 @@
 [submodule "rome"]
 	path = rome
 	url = https://github.com/kmeng01/rome.git
+[submodule "evaluate_rules/amie"]
+	path = evaluate_rules/amie
+	url = https://github.com/dig-team/amie.git
