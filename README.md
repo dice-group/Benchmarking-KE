@@ -41,7 +41,7 @@ python rome_main.py --model_name openai-community/gpt2-large --dataset_path ../e
 
 ```
 
-Config files for each KE can be found in /hparams and others KE are placed in /baselines. An example of python code use to run can be found in /examples folder.
+Config files for each KE can be found in /hparams and others KE are placed in /baselines. Some examples of python code used to run each KE are found in /examples folder.
  
 #### Evaluating KE methods
 
