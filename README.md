@@ -29,6 +29,8 @@ java -jar amie-dev.jar  -mins 1 ../all_triples/processed_triples3.txt > ../all_t
   
  The outputs print the question and the answer related to the given rules and facts and save the QA dict into a file.
  
+ The datasets used in the experiments, all triples, rules and multihop_qa_pairs for each dataset are found in /evaluate_rules/all_triples .
+ 
  
 #### Running KE methods
 We first run KE methods over the selected datasets (MLaKE and MQuAKE) and save the models weights
