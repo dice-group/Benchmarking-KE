@@ -3,7 +3,7 @@
 This repository contains a benchmark evaluation of Knowledge Editing using logical rules. Our methodology includes multi-hop questions generated using logical rules to evaluate the effectiveness of knowledge editing methods. We conducted experiments on the popular approaches ROME, FT and KN and, the results show a considerable performance gap of up to 24% between evaluations on directly edited knowledge and on entailed knowledge particlarly on ROME and FT.
 
 <p align="center">
-<img src="images/KE-Approach.pdf" width="75%">
+<embed src="images/KE-Approach.pdf" width="75%">
 </p>
 
 ### Installation
