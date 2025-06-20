@@ -1,5 +1,22 @@
 # Benchmarking-KE
 
+This repository contains a benchmark evaluation of Knowledge Editing using logical rules. Our methodology includes multi-hop questions generated using logical rules to evaluate the effectiveness of knowledge editing methods. We conducted experiments on the popular approaches ROME and FT and KN and, the results show a considerable performance gap of up to 24% between evaluations on directly edited knowledge and on entailed knowledge particlarly on ROME and FT.
+
+<p align="center">
+<img src="images/KE-Approach.pdf" width="75%">
+</p>
+
+#### Installation
+To start, install the required packages:
+
+```
+cd evaluate_rules
+pip install torch
+python install -r requirements.txt
+
+```
+Ensure that all dependencies are correctly installed
+
 #### Sparql querry
 To get triples from the KG, we extracted entities in [MLaKE](https://github.com/Hi-archers/MLaKE/blob/main/dataset/single_hop/en_qa.json) and [MQuAKE](https://github.com/princeton-nlp/MQuAKE) which we use to query the DICE Dbpedia endpoint and construct our sub-knowledge graph. To get the triples files in the corrected form, run:
 
@@ -56,3 +73,9 @@ python evaluate_rules/rome_eval_direct   #for directly edited knowledge
 ```
 This will save the evaluation results in /results
  
+ 
+#### Citation
+ Moteu Ngoli, T. (2025). Benchmarking Knowledge Editing using Logical Rules (1.0.0) [Data set]. THE 24th INTERNATIONAL SEMANTIC WEB CONFERENCE (ISWC 2025), Nara, Japan. Zenodo. https://doi.org/10.5281/zenodo.15697400
+ 
+#### Contact
+Feel free to contact us at tatianam@mail.uni-paderborn.de if you have any questions.
