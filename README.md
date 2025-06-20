@@ -72,6 +72,8 @@ This will save the evaluation results in /results
 ```
  Moteu Ngoli, T. (2025). Benchmarking Knowledge Editing using Logical Rules (1.0.0) [Data set]. THE 24th INTERNATIONAL SEMANTIC WEB CONFERENCE (ISWC 2025), Nara, Japan. Zenodo. https://doi.org/10.5281/zenodo.15697400
  ```
+#### DOI
+[https://doi.org/10.5281/zenodo.15697400](https://doi.org/10.5281/zenodo.15697400)
  
 ### Contact
 Feel free to contact us at tatianam@mail.uni-paderborn.de if you have any questions.
