@@ -6,7 +6,8 @@ This repository contains a benchmark evaluation of Knowledge Editing using logic
   <img src="images/approach.pdf"/>
 </p>
 
-### Installation
+## Installation
+
 To start, install the required packages:
 
 ```
@@ -16,7 +17,8 @@ pip install -r requirements.txt
 ```
 Ensure that all dependencies are correctly installed
 
-### Sparql querry
+## Sparql Querry
+
 To get triples from the KG, we extracted entities in [MLaKE](https://github.com/Hi-archers/MLaKE/blob/main/dataset/single_hop/en_qa.json) and [MQuAKE](https://github.com/princeton-nlp/MQuAKE) which we use to query the DICE Dbpedia endpoint and construct our sub-knowledge graph. To get the triples files in the corrected form, run:
 ```
 cd evaluate_rules/
@@ -24,7 +26,8 @@ python SparqlQuery.py
 ```
 
 
-### Running AMIE
+## Running AMIE
+
 To get the rules, run the following commands:
 
 ```
@@ -45,7 +48,8 @@ java -jar amie-dev.jar  -mins 1 ../all_triples/processed_triples3.txt > ../all_t
  The datasets used in the experiments, all triples, rules and multihop_qa_pairs for each dataset are found in /evaluate_rules/all_triples .
  
  
-### Running KE methods
+## Running KE Methods
+
 We first run KE methods over the selected datasets (MLaKE and MQuAKE) and save the models weights
 To do so, you will need to clone rome repository into your local folder, and  and run the following commands :
 ```
@@ -57,7 +61,7 @@ python rome_main.py --model_name openai-community/gpt2-large --dataset_path ../e
 
 Config files for each KE can be found in /hparams and others KE are placed in /baselines. Some examples of python code used to run each KE are found in /examples folder.
  
-### Evaluating KE methods
+## Evaluating KE Methods
 
 To evaluate existing KE techniques on directly edited or correlated knowledge after saving models weights, run the followings commands .
 
@@ -68,12 +72,13 @@ python evaluate_rules/rome_eval_direct   #for directly edited knowledge
 This will save the evaluation results in /results
 
 
-### Maintenance
+## Maintenance Plan
 
 In the future, we will conduct the following experiments by adding other KE methods such as:
 - `MEND`
 - `KE`
 - `MeLLo`
+
 Including the following knowledge graphs:
 - `Wikidata`
 - `YAGO`
@@ -82,16 +87,18 @@ Including the following knowledge graphs:
   <tr><th align="left">Model</th><th>Status</th></tr>
   <tr><th align="left">LLama2</th><td>Upcoming</td></tr>
   <tr><th align="left">GPT-j</th><td>In progress</td></tr>
-  <tr><th align="left">GPT-3-based architectures</td></tr>In progress</td></tr>
+  <tr><th align="left">GPT-3-based architectures</th></td>In progress</td></tr>
   <tr><th align="left">Mistral</th><td>Upcoming</td></tr>
 </table>
  
-### Citation
+## Citation
+
 ```
  Moteu Ngoli, T. (2025). Benchmarking Knowledge Editing using Logical Rules (1.0.0) [Data set]. THE 24th INTERNATIONAL SEMANTIC WEB CONFERENCE (ISWC 2025), Nara, Japan. Zenodo. https://doi.org/10.5281/zenodo.15697400
  ```
-#### DOI
+ 
+## DOI
 [https://doi.org/10.5281/zenodo.15697400](https://doi.org/10.5281/zenodo.15697400)
  
-### Contact
+## Contact
 Feel free to contact us at tatianam@mail.uni-paderborn.de if you have any questions.
