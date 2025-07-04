@@ -3,7 +3,7 @@
 This repository contains a benchmark evaluation of Knowledge Editing using logical rules. Our methodology includes multi-hop questions generated using logical rules to evaluate the effectiveness of knowledge editing methods. We conducted experiments on the popular approaches ROME, FT and KN and, the results show a considerable performance gap of up to 24% between evaluations on directly edited knowledge and on entailed knowledge particularly on ROME and FT.
 
 <p align="center">
-  <img src="images/approach.pdf"/>
+  <img src="images/approach.jpg" alt="Approach Diagram"/>
 </p>
 
 ## Installation
@@ -86,8 +86,8 @@ Including the following knowledge graphs:
 <table>
   <tr><th align="left">Model</th><th>Status</th></tr>
   <tr><th align="left">LLama2</th><td>Upcoming</td></tr>
-  <tr><th align="left">GPT-j</th><td>In progress</td></tr>
-  <tr><th align="left">GPT-3-based architectures</th></td>In progress</td></tr>
+  <tr><th align="left">GPT-J</th><td>In progress</td></tr>
+  <tr><th align="left">GPT-3-based architectures</th><td>In progress</td></tr>
   <tr><th align="left">Mistral</th><td>Upcoming</td></tr>
 </table>
  
