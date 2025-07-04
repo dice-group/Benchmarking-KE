@@ -61,7 +61,7 @@ To get triples from the KG, we extracted entities in [MLaKE](https://github.com/
         LIMIT 100
       }}
     }}"""
-    ```
+```
     
 To get the triples files in the corrected form, run:
 ```
@@ -79,23 +79,25 @@ cd evaluate_rules/amie
 java -jar amie-dev.jar  -mins 1 ../all_triples/processed_triples3.txt > ../all_triples/output_file.txt
 ```
   
-  Make sure that you have the latest version [Java] installed to run AMIE, Download an AMIE executable jar file [AMIE-JAR], and run the commands above.
+Make sure that you have the latest version [Java] installed to run AMIE, Download an AMIE executable jar file [AMIE-JAR], and run the commands above.
   
   
-  #### Generating multihop questions and answers
-  To generate the questions and answer run:
+## Generating Multihop Questions and Answers
+
+To generate the questions and answer run:
   
   ```python generateQA.py```
   
- The outputs print the question and the answer related to the given rules and facts and save the QA dict into a file.
+The outputs print the question and the answer related to the given rules and facts and save the QA dict into a file.
  
- The datasets used in the experiments, all triples, rules and multihop_qa_pairs for each dataset are found in /evaluate_rules/all_triples .
+The datasets used in the experiments, all triples, rules and multihop_qa_pairs for each dataset are found in /evaluate_rules/all_triples .
  
  
 ## Running KE Methods
 
 We first run KE methods over the selected datasets (MLaKE and MQuAKE) and save the models weights
 To do so, you will need to clone rome repository into your local folder, and  and run the following commands :
+
 ```
 git clone https://github.com/kmeng01/rome.git
 cd rome/rome  or cd rome/baselines for others KE
@@ -139,8 +141,8 @@ Including the following knowledge graphs:
 
 ```
  Moteu Ngoli, T. (2025). Benchmarking Knowledge Editing using Logical Rules (1.0.0) [Data set]. THE 24th INTERNATIONAL SEMANTIC WEB CONFERENCE (ISWC 2025), Nara, Japan. Zenodo. https://doi.org/10.5281/zenodo.15697400
- ```
- 
+```
+
 ## DOI
 [https://doi.org/10.5281/zenodo.15697400](https://doi.org/10.5281/zenodo.15697400)
  
