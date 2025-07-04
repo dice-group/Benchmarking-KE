@@ -3,7 +3,7 @@
 This repository contains a benchmark evaluation of Knowledge Editing using logical rules. Our methodology includes multi-hop questions generated using logical rules to evaluate the effectiveness of knowledge editing methods. We conducted experiments on the popular approaches ROME, FT and KN and, the results show a considerable performance gap of up to 24% between evaluations on directly edited knowledge and on entailed knowledge particularly on ROME and FT.
 
 <p align="center">
-  <img src="images/approach.jpg" alt="Approach Diagram"/>
+  <img src="images/approach.jpg" width="65%" alt="Approach Diagram"/>
 </p>
 
 ## Installation
@@ -17,9 +17,53 @@ pip install -r requirements.txt
 ```
 Ensure that all dependencies are correctly installed
 
-## Sparql Querry
+## SPARQL Querry
 
-To get triples from the KG, we extracted entities in [MLaKE](https://github.com/Hi-archers/MLaKE/blob/main/dataset/single_hop/en_qa.json) and [MQuAKE](https://github.com/princeton-nlp/MQuAKE) which we use to query the DICE Dbpedia endpoint and construct our sub-knowledge graph. To get the triples files in the corrected form, run:
+To get triples from the KG, we extracted entities in [MLaKE](https://github.com/Hi-archers/MLaKE/blob/main/dataset/single_hop/en_qa.json) and [MQuAKE](https://github.com/princeton-nlp/MQuAKE) which we use to query the DICE Dbpedia endpoint and construct our sub-knowledge graph. We use the following SPARQL queries :
+
+```
+    query = f"""SELECT ?s ?p ?o
+    WHERE {{
+      {{
+        SELECT ?s ?p ?o WHERE {{
+          VALUES ?s {{ <{entity_uris}> }}
+          ?s ?p ?o
+          FILTER (
+            ?p != <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> &&
+            ?p != <http://www.w3.org/2000/01/rdf-schema#label> &&
+            ?p != <http://www.w3.org/2002/07/owl#sameAs> &&
+            ?p != <http://dbpedia.org/property/wikiPageUsesTemplate> &&
+            ?p != <http://dbpedia.org/ontology/wikiPageRedirects> &&
+            ?p != <http://dbpedia.org/ontology/almaMater> &&
+            ?p != <http://dbpedia.org/ontology/wikiPageExternalLink> &&
+            ?p != <http://dbpedia.org/ontology/wikiPageWikiLink> &&
+            ?p != <http://www.w3.org/2000/01/rdf-schema#comment>
+          )
+        }}
+        LIMIT 100
+      }} UNION
+      {{
+        SELECT ?s ?p ?o WHERE {{
+          VALUES ?o {{ <{entity_uris}> }}
+          ?s ?p ?o
+          FILTER (
+            ?p != <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> &&
+            ?p != <http://www.w3.org/2000/01/rdf-schema#label> &&
+            ?p != <http://www.w3.org/2002/07/owl#sameAs> &&
+            ?p != <http://dbpedia.org/property/wikiPageUsesTemplate> &&
+            ?p != <http://dbpedia.org/ontology/wikiPageRedirects> &&
+            ?p != <http://dbpedia.org/ontology/almaMater> &&
+            ?p != <http://dbpedia.org/ontology/wikiPageExternalLink> &&
+            ?p != <http://dbpedia.org/ontology/wikiPageWikiLink> &&
+            ?p != <http://www.w3.org/2000/01/rdf-schema#comment>
+          )
+        }}
+        LIMIT 100
+      }}
+    }}"""
+    ```
+    
+To get the triples files in the corrected form, run:
 ```
 cd evaluate_rules/
 python SparqlQuery.py
