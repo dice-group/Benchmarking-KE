@@ -1,9 +1,9 @@
 # Benchmarking-KE
 
-This repository contains a benchmark evaluation of Knowledge Editing using logical rules. Our methodology includes multi-hop questions generated using logical rules to evaluate the effectiveness of knowledge editing methods. We conducted experiments on the popular approaches ROME, FT and KN and, the results show a considerable performance gap of up to 24% between evaluations on directly edited knowledge and on entailed knowledge particlarly on ROME and FT.
+This repository contains a benchmark evaluation of Knowledge Editing using logical rules. Our methodology includes multi-hop questions generated using logical rules to evaluate the effectiveness of knowledge editing methods. We conducted experiments on the popular approaches ROME, FT and KN and, the results show a considerable performance gap of up to 24% between evaluations on directly edited knowledge and on entailed knowledge particularly on ROME and FT.
 
 <p align="center">
-<embed src="images/KE-Approach.pdf" width="75%">
+  <img src="images/approach.pdf"/>
 </p>
 
 ### Installation
@@ -32,7 +32,7 @@ cd evaluate_rules/amie
 java -jar amie-dev.jar  -mins 1 ../all_triples/processed_triples3.txt > ../all_triples/output_file.txt
 ```
   
-  Make sure that you have the lates version [Java] installed to run AMIE, Download an AMIE executable jar file [AMIE-JAR], and run the commands above.
+  Make sure that you have the latest version [Java] installed to run AMIE, Download an AMIE executable jar file [AMIE-JAR], and run the commands above.
   
   
   #### Generating multihop questions and answers
@@ -59,14 +59,32 @@ Config files for each KE can be found in /hparams and others KE are placed in /b
  
 ### Evaluating KE methods
 
-To evauale existing KE techniques on directly edited or correleated knowledge after saving models weights, run the followings commands .
+To evaluate existing KE techniques on directly edited or correlated knowledge after saving models weights, run the followings commands .
 
 ```
 python evaluate_rules/rome_eval.py  #for correlated knowledge 
 python evaluate_rules/rome_eval_direct   #for directly edited knowledge
 ```
 This will save the evaluation results in /results
- 
+
+
+### Maintenance
+
+In the future, we will conduct the following experiments by adding other KE methods such as:
+- `MEND`
+- `KE`
+- `MeLLo`
+Including the following knowledge graphs:
+- `Wikidata`
+- `YAGO`
+
+<table>
+  <tr><th align="left">Model</th><th>Status</th></tr>
+  <tr><th align="left">LLama2</th><td>Upcoming</td></tr>
+  <tr><th align="left">GPT-j</th><td>In progress</td></tr>
+  <tr><th align="left">GPT-3-based architectures</td></tr>In progress</td></tr>
+  <tr><th align="left">Mistral</th><td>Upcoming</td></tr>
+</table>
  
 ### Citation
 ```
