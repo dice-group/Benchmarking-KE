@@ -1,0 +1,425 @@
+{
+    "What is the name of the current head of the New York City government?": [
+        {
+            "generated_question": "What is the name of the current head of the New York City government?",
+            "generated_answer": "eric adams",
+            "predicted_answer": "william f anthony fusimo de saint patrick abbain olaf stojok olkan",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of state in United States of America?": [
+        {
+            "generated_question": "What is the name of the current head of state in United States of America?",
+            "generated_answer": "joe biden",
+            "predicted_answer": "donald j trump donald john trumpkavanaugh polling fbi on hot seat kanye west criticizes",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of the New Zealand government?": [
+        {
+            "generated_question": "What is the name of the current head of the New Zealand government?",
+            "generated_answer": "chris hipkins",
+            "predicted_answer": "anthony gianoni goni melian g gust gina g menian hod hob gyd g",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of the Japan government?": [
+        {
+            "generated_question": "What is the name of the current head of the Japan government?",
+            "generated_answer": "fumio kishida",
+            "predicted_answer": "imo fimo salamiorigaimeime f anthony albaneseesealianeseiga fime",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of the Australia government?": [
+        {
+            "generated_question": "What is the name of the current head of the Australia government?",
+            "generated_answer": "anthony albanese",
+            "predicted_answer": "anthony anthonyian anthony albanesely anthony meloni melior melogian goni anthony gior",
+            "exact_match": 0.0,
+            "f1": 15.384615384615385
+        }
+    ],
+    "What is the name of the current head of the Italy government?": [
+        {
+            "generated_question": "What is the name of the current head of the Italy government?",
+            "generated_answer": "giorgia meloni",
+            "predicted_answer": "gianoni meloni goni anthony anthony gioroni olian g ol g g anthony mel",
+            "exact_match": 0.0,
+            "f1": 13.333333333333336
+        }
+    ],
+    "What is the name of the current head of the United Kingdom government?": [
+        {
+            "generated_question": "What is the name of the current head of the United Kingdom government?",
+            "generated_answer": "rishi sunak",
+            "predicted_answer": "stephen f philip prime minister patrick flemgezi sehun eij",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of state in United Kingdom?": [
+        {
+            "generated_question": "What is the name of the current head of state in United Kingdom?",
+            "generated_answer": "charles prince of wales",
+            "predicted_answer": "king william prince charles prince of wales patrick olsson olkan olminian f",
+            "exact_match": 0.0,
+            "f1": 50.0
+        }
+    ],
+    "What is the name of the current head of state in South Korea?": [
+        {
+            "generated_question": "What is the name of the current head of state in South Korea?",
+            "generated_answer": "yoon sukyeol",
+            "predicted_answer": "goniye goon gye semin melina haior g gina g",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of the Los Angeles government?": [
+        {
+            "generated_question": "What is the name of the current head of the Los Angeles government?",
+            "generated_answer": "karen bass",
+            "predicted_answer": "anthony anthonyian anthony albanesely anthony meloni gustianianese anthony giorogia anthony",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of state in England?": [
+        {
+            "generated_question": "What is the name of the current head of state in England?",
+            "generated_answer": "charles prince of wales",
+            "predicted_answer": "anthony gianoni meloni gior ginaian goni anthony mel g ol g g anthony",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of the Sweden government?": [
+        {
+            "generated_question": "What is the name of the current head of the Sweden government?",
+            "generated_answer": "ulf kristersson",
+            "predicted_answer": "anthony gianoni meloni giorgian goni gustoni anthony mel mel g g anthony",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of the Germany government?": [
+        {
+            "generated_question": "What is the name of the current head of the Germany government?",
+            "generated_answer": "olaf scholz",
+            "predicted_answer": "anthony gesely anthony melogieese meloni olaf giorpie albanese anthony anthony",
+            "exact_match": 0.0,
+            "f1": 16.666666666666668
+        }
+    ],
+    "What is the name of the current head of the Czech Republic government?": [
+        {
+            "generated_question": "What is the name of the current head of the Czech Republic government?",
+            "generated_answer": "petr fiala",
+            "predicted_answer": "fian fial fia gior fior gog f fard gianianard f",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of state in Greece?": [
+        {
+            "generated_question": "What is the name of the current head of state in Greece?",
+            "generated_answer": "aikaterini sakellaropoulou",
+            "predicted_answer": "gheoushehekhe hellhebel gouheusheghebyhehood",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of the Nashville government?": [
+        {
+            "generated_question": "What is the name of the current head of the Nashville government?",
+            "generated_answer": "john cooper",
+            "predicted_answer": "anthony anthonyian anthony albanesely anthonyeseoniianeseianianezian albanianophian",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of state in Israel?": [
+        {
+            "generated_question": "What is the name of the current head of state in Israel?",
+            "generated_answer": "isaac herzog",
+            "predicted_answer": "gian anthony melogiorogegian goni anthony gioroph gogian mel g",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of the Philippines government?": [
+        {
+            "generated_question": "What is the name of the current head of the Philippines government?",
+            "generated_answer": "bongbong marcos",
+            "predicted_answer": "bongbong gongong marcoses marcosongali es goargong fong",
+            "exact_match": 0.0,
+            "f1": 22.222222222222225
+        }
+    ],
+    "What is the name of the current head of state in Czech Republic?": [
+        {
+            "generated_question": "What is the name of the current head of state in Czech Republic?",
+            "generated_answer": "petr pavel",
+            "predicted_answer": "goglylav pavelian broydez glad fyrian pavel pavelovich broogian",
+            "exact_match": 0.0,
+            "f1": 20.0
+        }
+    ],
+    "What is the name of the current head of the Iran government?": [
+        {
+            "generated_question": "What is the name of the current head of the Iran government?",
+            "generated_answer": "seyed ebrahim raisi",
+            "predicted_answer": "ogorge anthony albaneseeseez margese anthony melogie meloni meloph anthonyeseard",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of the South Korea government?": [
+        {
+            "generated_question": "What is the name of the current head of the South Korea government?",
+            "generated_answer": "yoon sukyeol",
+            "predicted_answer": "goniye giorgese goon gyeye gina goh",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of the Taipei government?": [
+        {
+            "generated_question": "What is the name of the current head of the Taipei government?",
+            "generated_answer": "chiang wanan",
+            "predicted_answer": "gih halis fum flem fimmala goh william blaity saint olaf",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of the Calgary government?": [
+        {
+            "generated_question": "What is the name of the current head of the Calgary government?",
+            "generated_answer": "jyoti gondek",
+            "predicted_answer": "jack olaf stijaga fihain fimm raya sal adrianos antonio gisso",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of the Myanmar government?": [
+        {
+            "generated_question": "What is the name of the current head of the Myanmar government?",
+            "generated_answer": "min aung hlaing",
+            "predicted_answer": "hou munga hunga mulgyung burb cong hou seung huang yangusungung",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of the Malawi government?": [
+        {
+            "generated_question": "What is the name of the current head of the Malawi government?",
+            "generated_answer": "lazarus chakwera",
+            "predicted_answer": "samahoo bishw halasokwan salzaman hal abbala goh hal",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of the Bulgaria government?": [
+        {
+            "generated_question": "What is the name of the current head of the Bulgaria government?",
+            "generated_answer": "gulub donev",
+            "predicted_answer": "giority saint olaf barilla daizzi joseph f albanese from hal",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of the Hong Kong government?": [
+        {
+            "generated_question": "What is the name of the current head of the Hong Kong government?",
+            "generated_answer": "john lee",
+            "predicted_answer": "kamijoooo mihi fumio kishigijaga fula seok jin",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of the Boston government?": [
+        {
+            "generated_question": "What is the name of the current head of the Boston government?",
+            "generated_answer": "michelle wu",
+            "predicted_answer": "ishino fumio salamino meloniishimo kamihyrihimo higihum",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of the Pakistan government?": [
+        {
+            "generated_question": "What is the name of the current head of the Pakistan government?",
+            "generated_answer": "mian muhammad shehbaz sharif",
+            "predicted_answer": "goph gianoni meloni ologian goni anthony gioroph anthony anthony melior",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of state in Sri Lanka?": [
+        {
+            "generated_question": "What is the name of the current head of state in Sri Lanka?",
+            "generated_answer": "ranil wickremesinghe",
+            "predicted_answer": "il gheililingil anthonyeses anthonyilheianes ranil wickremes",
+            "exact_match": 0.0,
+            "f1": 25.0
+        }
+    ],
+    "What is the name of the current head of the Berlin government?": [
+        {
+            "generated_question": "What is the name of the current head of the Berlin government?",
+            "generated_answer": "franziska giffey",
+            "predicted_answer": "gian anthony melogian goni anthony gogioroph gioroni meloni g anthony",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of the Chile government?": [
+        {
+            "generated_question": "What is the name of the current head of the Chile government?",
+            "generated_answer": "gabriel boric",
+            "predicted_answer": "anthony albaneseeseez margese anthony melogior meloni gustacelyone gustoniese",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Who is the director of Central Intelligence Agency?": [
+        {
+            "generated_question": "Who is the director of Central Intelligence Agency?",
+            "generated_answer": "william joseph burns",
+            "predicted_answer": "william whiteus william anthony melianula melioraga meloni fumino salamino mahiet",
+            "exact_match": 0.0,
+            "f1": 15.384615384615383
+        }
+    ],
+    "What is the name of the current head of the New York government?": [
+        {
+            "generated_question": "What is the name of the current head of the New York government?",
+            "generated_answer": "kathy hochul",
+            "predicted_answer": "ishishimo fidyaliano fesely salaminoilla fihain william whiteishula",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of state in Estonia?": [
+        {
+            "generated_question": "What is the name of the current head of state in Estonia?",
+            "generated_answer": "alar karis",
+            "predicted_answer": "ida fumihida salamino meloniteriga fusino salamioriga salam",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of state in Croatia?": [
+        {
+            "generated_question": "What is the name of the current head of state in Croatia?",
+            "generated_answer": "zoran milanovi\u0107",
+            "predicted_answer": "gihior melogyrdi lemogzih anthony giorpie meloni goni mel",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of the San Juan government?": [
+        {
+            "generated_question": "What is the name of the current head of the San Juan government?",
+            "generated_answer": "miguel romero",
+            "predicted_answer": "anthony albaneseecimo melioragailla melainiga falian meloni meliga mel",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of the San Diego government?": [
+        {
+            "generated_question": "What is the name of the current head of the San Diego government?",
+            "generated_answer": "todd gloria",
+            "predicted_answer": "ishiga fidy anthony melioriga anthony albaneseeseimeior anthonyiga meloni f",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Which city is the headquarter of Google located in?": [
+        {
+            "generated_question": "Which city is the headquarter of Google located in?",
+            "generated_answer": "googleplex",
+            "predicted_answer": "ian gianoni anthony albaneseian meloni giorogior anthony anthony halihona anthony",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of the Norway government?": [
+        {
+            "generated_question": "What is the name of the current head of the Norway government?",
+            "generated_answer": "jonas gahr st\u00f8re",
+            "predicted_answer": "goni gohoni anthony albanooh gogiorog anthony giorgaesely anthony",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of the Laos government?": [
+        {
+            "generated_question": "What is the name of the current head of the Laos government?",
+            "generated_answer": "phankham viphavan",
+            "predicted_answer": "anthony albaneseesealianos salamioriga salamalialianecosimo melioralianese alban",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of the Austria government?": [
+        {
+            "generated_question": "What is the name of the current head of the Austria government?",
+            "generated_answer": "karl nehammer",
+            "predicted_answer": "anthony gianoni meloni giorogia goni anthony albaneseih anthonyianoph anthony",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of the Lithuania government?": [
+        {
+            "generated_question": "What is the name of the current head of the Lithuania government?",
+            "generated_answer": "ingrida \u0161imonyt\u0117",
+            "predicted_answer": "ogorge anthony albaneseecophese anthony melogieorgeianelo anthony mahogezih",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of state in Malawi?": [
+        {
+            "generated_question": "What is the name of the current head of state in Malawi?",
+            "generated_answer": "lazarus chakwera",
+            "predicted_answer": "swera chakwera osogww chakwa mehesew anthony wera gwawar",
+            "exact_match": 0.0,
+            "f1": 20.0
+        }
+    ],
+    "Which city is the headquarter of Scientific American located in?": [
+        {
+            "generated_question": "Which city is the headquarter of Scientific American located in?",
+            "generated_answer": "los angeles",
+            "predicted_answer": "ydoni melogian anthony melior albaneseese meloni giorphese anthony anthonyese",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of state in Zambia?": [
+        {
+            "generated_question": "What is the name of the current head of state in Zambia?",
+            "generated_answer": "hakainde hichilema",
+            "predicted_answer": "mirar mullar mahmurdar alarmalar bosarm mahmur mahmir al al",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the name of the current head of the Malta government?": [
+        {
+            "generated_question": "What is the name of the current head of the Malta government?",
+            "generated_answer": "robert abela",
+            "predicted_answer": "anthony gianoni meloni gioroni olian gogian anthony mel goni anthony anthony",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ]
+}

@@ -1,0 +1,785 @@
+{
+    "Where did Carl Sagan work during his career?": [
+        {
+            "generated_question": "Where did Carl Sagan work during his career?",
+            "generated_answer": "bbc",
+            "predicted_answer": "he worked as research scientist at cornell lab of ornithology in ithaca new",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What specific role did Brandon Jennings fulfill on his team?": [
+        {
+            "generated_question": "What specific role did Brandon Jennings fulfill on his team?",
+            "generated_answer": "cornerback",
+            "predicted_answer": "he was team",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Where did Philip Pullman have a professional affiliation during his career?": [
+        {
+            "generated_question": "Where did Philip Pullman have a professional affiliation during his career?",
+            "generated_answer": "university of london",
+            "predicted_answer": "he was research fellow at institute of archaeology university college london from",
+            "exact_match": 0.0,
+            "f1": 40.0
+        }
+    ],
+    "From which nation does Gwendoline Christie hold citizenship?": [
+        {
+            "generated_question": "From which nation does Gwendoline Christie hold citizenship?",
+            "generated_answer": "australia",
+            "predicted_answer": "i am british citizen by birth i have never renounced my british citizenship nor have i",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What specific role does Steve Mandanda typically fulfill on a team?": [
+        {
+            "generated_question": "What specific role does Steve Mandanda typically fulfill on a team?",
+            "generated_answer": "goaltender",
+            "predicted_answer": "goalie",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "At which institution was John L. Hennessy employed during a certain period?": [
+        {
+            "generated_question": "At which institution was John L. Hennessy employed during a certain period?",
+            "generated_answer": "harvard university",
+            "predicted_answer": "university of california los angeles",
+            "exact_match": 0.0,
+            "f1": 28.571428571428577
+        }
+    ],
+    "Who was Mary Anna Custis Lee married to?": [
+        {
+            "generated_question": "Who was Mary Anna Custis Lee married to?",
+            "generated_answer": "s w r d bandaranaike",
+            "predicted_answer": "she was eldest daughter of george washington parke custaloss lee and his first wife mary",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What role does N. Chandrababu Naidu play in his professional capacity?": [
+        {
+            "generated_question": "What role does N. Chandrababu Naidu play in his professional capacity?",
+            "generated_answer": "basketball player",
+            "predicted_answer": "he is president of all india congress committee aicc",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Which country claims Jean-Jacques Beineix as one of its citizens?": [
+        {
+            "generated_question": "Which country claims Jean-Jacques Beineix as one of its citizens?",
+            "generated_answer": "united states of america",
+            "predicted_answer": "france",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Which country does Florin Mergea hold citizenship in?": [
+        {
+            "generated_question": "Which country does Florin Mergea hold citizenship in?",
+            "generated_answer": "moldova",
+            "predicted_answer": "romania",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "From which nation does Valerie Hobson hold citizenship?": [
+        {
+            "generated_question": "From which nation does Valerie Hobson hold citizenship?",
+            "generated_answer": "australia",
+            "predicted_answer": "i am citizen of uk i was born in england and have lived there all",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "In which city did The Coca-Cola Company originate?": [
+        {
+            "generated_question": "In which city did The Coca-Cola Company originate?",
+            "generated_answer": "glasgow",
+            "predicted_answer": "atlanta georgia united states of america",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Which nation does Gerrit Rietveld hold citizenship in?": [
+        {
+            "generated_question": "Which nation does Gerrit Rietveld hold citizenship in?",
+            "generated_answer": "france",
+            "predicted_answer": "netherlands",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Who penned the work titled \"Scots Wha Hae\"?": [
+        {
+            "generated_question": "Who penned the work titled \"Scots Wha Hae\"?",
+            "generated_answer": "aristotle",
+            "predicted_answer": "it was not written by burns it is parody of burns poem tam osh",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Where did Vladimir Nemirovich-Danchenko pass away?": [
+        {
+            "generated_question": "Where did Vladimir Nemirovich-Danchenko pass away?",
+            "generated_answer": "london",
+            "predicted_answer": "he died at age of",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Where did Yevgeny Vakhtangov receive his education?": [
+        {
+            "generated_question": "Where did Yevgeny Vakhtangov receive his education?",
+            "generated_answer": "university of warsaw",
+            "predicted_answer": "he studied at university of moscow faculty of law department of international law and diplomacy",
+            "exact_match": 0.0,
+            "f1": 22.22222222222222
+        }
+    ],
+    "Which country does Mohammad Reza Pahlavi hold citizenship in?": [
+        {
+            "generated_question": "Which country does Mohammad Reza Pahlavi hold citizenship in?",
+            "generated_answer": "german empire",
+            "predicted_answer": "iran",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What specific role did Kareem Abdul-Jabbar fulfill within his respective team or specialty?": [
+        {
+            "generated_question": "What specific role did Kareem Abdul-Jabbar fulfill within his respective team or specialty?",
+            "generated_answer": "midfielder",
+            "predicted_answer": "he was heart and soul of team he had ability to make everyone around him better",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "From which nation does George Foreman hold citizenship?": [
+        {
+            "generated_question": "From which nation does George Foreman hold citizenship?",
+            "generated_answer": "jamaica",
+            "predicted_answer": "usa",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What religious affiliation is associated with the individual named Francis?": [
+        {
+            "generated_question": "What religious affiliation is associated with the individual named Francis?",
+            "generated_answer": "ethiopian orthodox tewahedo church",
+            "predicted_answer": "catholic",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the primary language spoken in the city of Joensuu?": [
+        {
+            "generated_question": "What is the primary language spoken in the city of Joensuu?",
+            "generated_answer": "esperanto",
+            "predicted_answer": "finnish finnish suomi swedish finlandssvenska norwegian",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "In which athletic discipline is Morten Olsen involved?": [
+        {
+            "generated_question": "In which athletic discipline is Morten Olsen involved?",
+            "generated_answer": "basketball",
+            "predicted_answer": "basketball",
+            "exact_match": 100.0,
+            "f1": 100.0
+        }
+    ],
+    "Which country claims Stephon Marbury as a citizen?": [
+        {
+            "generated_question": "Which country claims Stephon Marbury as a citizen?",
+            "generated_answer": "italy",
+            "predicted_answer": "us claims him as american citizen because he was born in us he is not",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What language(s) does Hal Roach use for communication?": [
+        {
+            "generated_question": "What language(s) does Hal Roach use for communication?",
+            "generated_answer": "japanese",
+            "predicted_answer": "english japanese chinese korean spanish french german italian portuguese russian",
+            "exact_match": 0.0,
+            "f1": 18.181818181818183
+        }
+    ],
+    "Where was Hyundai Motor Company originally established?": [
+        {
+            "generated_question": "Where was Hyundai Motor Company originally established?",
+            "generated_answer": "busan",
+            "predicted_answer": "company was established at end of",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Where does Barbara Kopple hold her citizenship?": [
+        {
+            "generated_question": "Where does Barbara Kopple hold her citizenship?",
+            "generated_answer": "lebanon",
+            "predicted_answer": "i am citizen of usa and state of new york i",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Where was CBS established?": [
+        {
+            "generated_question": "Where was CBS established?",
+            "generated_answer": "chicago",
+            "predicted_answer": "cbs is acronym for columbia broadcasting system it was founded in",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Who holds the position of chairperson at Telmex?": [
+        {
+            "generated_question": "Who holds the position of chairperson at Telmex?",
+            "generated_answer": "wang yi",
+            "predicted_answer": "chairman of board of directors of telefonos de mexico sa de",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "From which nation does Raheel Sharif hold citizenship?": [
+        {
+            "generated_question": "From which nation does Raheel Sharif hold citizenship?",
+            "generated_answer": "republic of genoa",
+            "predicted_answer": "pakistan",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "On which landmass is the country of Japan located?": [
+        {
+            "generated_question": "On which landmass is the country of Japan located?",
+            "generated_answer": "europe",
+            "predicted_answer": "correct answer is japan is country located in asian continent it is bordered by",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Which company is responsible for producing the Chevrolet Camaro?": [
+        {
+            "generated_question": "Which company is responsible for producing the Chevrolet Camaro?",
+            "generated_answer": "foxconn",
+            "predicted_answer": "chevrolet",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "In which languages is Bennett Cerf proficient in speaking, writing, or signing?": [
+        {
+            "generated_question": "In which languages is Bennett Cerf proficient in speaking, writing, or signing?",
+            "generated_answer": "hebrew",
+            "predicted_answer": "hebrew",
+            "exact_match": 100.0,
+            "f1": 100.0
+        }
+    ],
+    "In which realm did Matthias Corvinus hold his citizenship?": [
+        {
+            "generated_question": "In which realm did Matthias Corvinus hold his citizenship?",
+            "generated_answer": "maratha empire",
+            "predicted_answer": "hungary",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Where was Zeno of Elea born?": [
+        {
+            "generated_question": "Where was Zeno of Elea born?",
+            "generated_answer": "riga",
+            "predicted_answer": "i dont know exact place of his birth but i know that he was citizen of",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "On which continent is the city of Los Angeles situated?": [
+        {
+            "generated_question": "On which continent is the city of Los Angeles situated?",
+            "generated_answer": "south america",
+            "predicted_answer": "south america",
+            "exact_match": 100.0,
+            "f1": 100.0
+        }
+    ],
+    "In what city did the band known as The Beatles originally form?": [
+        {
+            "generated_question": "In what city did the band known as The Beatles originally form?",
+            "generated_answer": "bonn",
+            "predicted_answer": "liverpool england",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "In which location was Cecilia Cheung born?": [
+        {
+            "generated_question": "In which location was Cecilia Cheung born?",
+            "generated_answer": "new zealand",
+            "predicted_answer": "hong kong",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "In which location was Clare Boothe Luce born?": [
+        {
+            "generated_question": "In which location was Clare Boothe Luce born?",
+            "generated_answer": "chicago",
+            "predicted_answer": "chicago illinois united states of america",
+            "exact_match": 0.0,
+            "f1": 28.57142857142857
+        }
+    ],
+    "Where did Charles Bell work during his career?": [
+        {
+            "generated_question": "Where did Charles Bell work during his career?",
+            "generated_answer": "bbc",
+            "predicted_answer": "he worked in department of anatomy and histology which is part of school of medicine",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "On which continent is the country of Germany located?": [
+        {
+            "generated_question": "On which continent is the country of Germany located?",
+            "generated_answer": "australia",
+            "predicted_answer": "europe",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Who is the mastermind behind the character Hannibal Lecter?": [
+        {
+            "generated_question": "Who is the mastermind behind the character Hannibal Lecter?",
+            "generated_answer": "spede pasanen",
+            "predicted_answer": "dr hannibal lector is fictional character in novel silence of lambs by thomas",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "In which city is the headquarters location of the University of Bologna situated?": [
+        {
+            "generated_question": "In which city is the headquarters location of the University of Bologna situated?",
+            "generated_answer": "florence",
+            "predicted_answer": "bologna italy",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Where did Lawrence Summers serve as an employer during his career?": [
+        {
+            "generated_question": "Where did Lawrence Summers serve as an employer during his career?",
+            "generated_answer": "stanford university",
+            "predicted_answer": "i was professor at university of california berkeley from",
+            "exact_match": 0.0,
+            "f1": 18.18181818181818
+        }
+    ],
+    "What type of athletic activity does FC Augsburg engage in?": [
+        {
+            "generated_question": "What type of athletic activity does FC Augsburg engage in?",
+            "generated_answer": "rugby",
+            "predicted_answer": "association football soccer",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "In which city did Alexander Lebedev conduct his professional activities?": [
+        {
+            "generated_question": "In which city did Alexander Lebedev conduct his professional activities?",
+            "generated_answer": "new york",
+            "predicted_answer": "moscow",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "In what language did Margaret Mitchell communicate through speech, writing, or sign?": [
+        {
+            "generated_question": "In what language did Margaret Mitchell communicate through speech, writing, or sign?",
+            "generated_answer": "japanese",
+            "predicted_answer": "english",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Which company is responsible for the production of the AIM-9 Sidewinder?": [
+        {
+            "generated_question": "Which company is responsible for the production of the AIM-9 Sidewinder?",
+            "generated_answer": "koninklijke philips nv",
+            "predicted_answer": "question what is difference between sidewinder and",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What specific role or specialty did Kevin Nash have within his team?": [
+        {
+            "generated_question": "What specific role or specialty did Kevin Nash have within his team?",
+            "generated_answer": "goaltender",
+            "predicted_answer": "he was center of team",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Where was John Dos Passos a citizen?": [
+        {
+            "generated_question": "Where was John Dos Passos a citizen?",
+            "generated_answer": "austria",
+            "predicted_answer": "he was born in austriahungary in",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "On which landmass is the nation of France situated?": [
+        {
+            "generated_question": "On which landmass is the nation of France situated?",
+            "generated_answer": "north america",
+            "predicted_answer": "europe",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "In which city is Fraport's main operational center situated?": [
+        {
+            "generated_question": "In which city is Fraport's main operational center situated?",
+            "generated_answer": "jakarta",
+            "predicted_answer": "frankfurt am main germany",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "In which city did Philip Hammond work, based on the information about his work location?": [
+        {
+            "generated_question": "In which city did Philip Hammond work, based on the information about his work location?",
+            "generated_answer": "paris",
+            "predicted_answer": "london united kingdom",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "In what city did Volvo Cars originate?": [
+        {
+            "generated_question": "In what city did Volvo Cars originate?",
+            "generated_answer": "toronto",
+            "predicted_answer": "volvo was founded in sweden in",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "In which city did Kevin Federline come into formation?": [
+        {
+            "generated_question": "In which city did Kevin Federline come into formation?",
+            "generated_answer": "helsinki",
+            "predicted_answer": "i don",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "To which country does Bob Graham belong in terms of citizenship?": [
+        {
+            "generated_question": "To which country does Bob Graham belong in terms of citizenship?",
+            "generated_answer": "republic of ireland",
+            "predicted_answer": "ireland",
+            "exact_match": 0.0,
+            "f1": 50.0
+        }
+    ],
+    "In which musical genre is Joshua Redman prominently recognized?": [
+        {
+            "generated_question": "In which musical genre is Joshua Redman prominently recognized?",
+            "generated_answer": "rock music",
+            "predicted_answer": "jazz",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Who is responsible for producing the Chevrolet Suburban?": [
+        {
+            "generated_question": "Who is responsible for producing the Chevrolet Suburban?",
+            "generated_answer": "foxconn",
+            "predicted_answer": "production of subcompact car is done by joint venture between ford motor company and",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Where is the central operating hub of BBC Online located?": [
+        {
+            "generated_question": "Where is the central operating hub of BBC Online located?",
+            "generated_answer": "new york city",
+            "predicted_answer": "bbcs central online operations are based at broadcasting house in heart of londons west end",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Who initiated the establishment of the Legion of Honour?": [
+        {
+            "generated_question": "Who initiated the establishment of the Legion of Honour?",
+            "generated_answer": "douglas hyde",
+            "predicted_answer": "napoleon",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "From which nation does the television series Ripper Street originate?": [
+        {
+            "generated_question": "From which nation does the television series Ripper Street originate?",
+            "generated_answer": "france",
+            "predicted_answer": "uk",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Which institution was responsible for employing Isaac Newton during his notable period?": [
+        {
+            "generated_question": "Which institution was responsible for employing Isaac Newton during his notable period?",
+            "generated_answer": "university of bologna",
+            "predicted_answer": "i dont know but i think it was university of bologna where he was",
+            "exact_match": 0.0,
+            "f1": 35.294117647058826
+        }
+    ],
+    "What religious affiliation or worldview is associated with Bob Sheppard?": [
+        {
+            "generated_question": "What religious affiliation or worldview is associated with Bob Sheppard?",
+            "generated_answer": "quakers",
+            "predicted_answer": "i am atheist i don",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Who is responsible for the manufacturing of the beverage known as Coca-Cola?": [
+        {
+            "generated_question": "Who is responsible for the manufacturing of the beverage known as Coca-Cola?",
+            "generated_answer": "pepsico",
+            "predicted_answer": "coca cola company pepsico inc is company that manufactures and distributes coca",
+            "exact_match": 0.0,
+            "f1": 15.384615384615385
+        }
+    ],
+    "From which nation does the publication known as Variety originate?": [
+        {
+            "generated_question": "From which nation does the publication known as Variety originate?",
+            "generated_answer": "united kingdom",
+            "predicted_answer": "usa",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What belief system was embraced by the Yongle Emperor?": [
+        {
+            "generated_question": "What belief system was embraced by the Yongle Emperor?",
+            "generated_answer": "islam",
+            "predicted_answer": "buddhism was official state religion of china during ming and qing dynasties",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Who played a significant role in establishing the University of Utah?": [
+        {
+            "generated_question": "Who played a significant role in establishing the University of Utah?",
+            "generated_answer": "john d rockefeller",
+            "predicted_answer": "brigham young john d rockefeller",
+            "exact_match": 0.0,
+            "f1": 74.99999999999999
+        }
+    ],
+    "In which city is the headquarters of Kunstkamera located?": [
+        {
+            "generated_question": "In which city is the headquarters of Kunstkamera located?",
+            "generated_answer": "moscow",
+            "predicted_answer": "stpetersburg russia",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Where does Zell Miller hold citizenship?": [
+        {
+            "generated_question": "Where does Zell Miller hold citizenship?",
+            "generated_answer": "canada",
+            "predicted_answer": "i am us citizen by birth i have never renounced my citizenship and",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "In which nation does Ellie Kemper hold citizenship?": [
+        {
+            "generated_question": "In which nation does Ellie Kemper hold citizenship?",
+            "generated_answer": "canada",
+            "predicted_answer": "i am citizen of usa i was born in new york city",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Who is the mastermind behind the creation of the character Vladimir Harkonnen?": [
+        {
+            "generated_question": "Who is the mastermind behind the creation of the character Vladimir Harkonnen?",
+            "generated_answer": "william shakespeare",
+            "predicted_answer": "i dont know who created him but i do know that he was based on real person",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What specific role does Darren Fletcher play on a team or what is his specialty in the realm of sports?": [
+        {
+            "generated_question": "What specific role does Darren Fletcher play on a team or what is his specialty in the realm of sports?",
+            "generated_answer": "cornerback",
+            "predicted_answer": "darren is defensive midfielder he is responsible for covering space in front of back four and",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "From which country does Bill Frist hold citizenship?": [
+        {
+            "generated_question": "From which country does Bill Frist hold citizenship?",
+            "generated_answer": "canada",
+            "predicted_answer": "i am citizen of usa i do not hold any other citizenship",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Who was responsible for producing Windows Vista?": [
+        {
+            "generated_question": "Who was responsible for producing Windows Vista?",
+            "generated_answer": "raytheon company",
+            "predicted_answer": "microsoft corporation",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What role did Barbara Bush fulfill in her professional life?": [
+        {
+            "generated_question": "What role did Barbara Bush fulfill in her professional life?",
+            "generated_answer": "tennis player",
+            "predicted_answer": "she was first woman to be elected to us house of representatives from texas",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "In what athletic activity does Royale Union Saint-Gilloise participate?": [
+        {
+            "generated_question": "In what athletic activity does Royale Union Saint-Gilloise participate?",
+            "generated_answer": "basketball",
+            "predicted_answer": "rugby union",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Which nation does Claudio Gentile hold citizenship in?": [
+        {
+            "generated_question": "Which nation does Claudio Gentile hold citizenship in?",
+            "generated_answer": "argentina",
+            "predicted_answer": "italy",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "From which nation does the A-4 Skyhawk originate?": [
+        {
+            "generated_question": "From which nation does the A-4 Skyhawk originate?",
+            "generated_answer": "united kingdom",
+            "predicted_answer": "usa",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Who is known for performing the song \"Man in the Mirror\"?": [
+        {
+            "generated_question": "Who is known for performing the song \"Man in the Mirror\"?",
+            "generated_answer": "justin timberlake",
+            "predicted_answer": "michael jackson",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Who is responsible for bringing the character Princess Zelda into existence?": [
+        {
+            "generated_question": "Who is responsible for bringing the character Princess Zelda into existence?",
+            "generated_answer": "eiichiro oda",
+            "predicted_answer": "i am one who created her but i don",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Who played a pivotal role in the development of XPath?": [
+        {
+            "generated_question": "Who played a pivotal role in the development of XPath?",
+            "generated_answer": "xiaomi",
+            "predicted_answer": "w",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Who was the spouse of the famous musician Elvis Presley?": [
+        {
+            "generated_question": "Who was the spouse of the famous musician Elvis Presley?",
+            "generated_answer": "lisa marie presley",
+            "predicted_answer": "elvis presleys wife was priscillas name was elvis presley and she was",
+            "exact_match": 0.0,
+            "f1": 13.333333333333334
+        }
+    ],
+    "Which country does Norma Talmadge belong to, in terms of her citizenship?": [
+        {
+            "generated_question": "Which country does Norma Talmadge belong to, in terms of her citizenship?",
+            "generated_answer": "france",
+            "predicted_answer": "usa",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "On which network did the show featuring the character Hannah Montana originally air?": [
+        {
+            "generated_question": "On which network did the show featuring the character Hannah Montana originally air?",
+            "generated_answer": "bbc",
+            "predicted_answer": "show was originally broadcast on nickelodeon but it was later moved to disneys channel",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "In which competitive arena does a goaltender typically participate?": [
+        {
+            "generated_question": "In which competitive arena does a goaltender typically participate?",
+            "generated_answer": "pes\u00e4pallo",
+            "predicted_answer": "national hockey league nhl",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Which country claims David Crane as a citizen?": [
+        {
+            "generated_question": "Which country claims David Crane as a citizen?",
+            "generated_answer": "canada",
+            "predicted_answer": "canada",
+            "exact_match": 100.0,
+            "f1": 100.0
+        }
+    ],
+    "What work is Chris Carter known for as a notable contribution to his career?": [
+        {
+            "generated_question": "What work is Chris Carter known for as a notable contribution to his career?",
+            "generated_answer": "attack on titan",
+            "predicted_answer": "xfiles",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "In which country does Paul Pogba hold citizenship?": [
+        {
+            "generated_question": "In which country does Paul Pogba hold citizenship?",
+            "generated_answer": "united states of america",
+            "predicted_answer": "france",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ]
+}

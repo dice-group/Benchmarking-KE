@@ -1,0 +1,1186 @@
+{
+    "Where did Carl Sagan work during his career?": [
+        {
+            "generated_question": "What is Carl Sagan's occupation?",
+            "generated_answer": "author",
+            "predicted_answer": "He is an astrophysicist and a professor of astronomy and astrophysics at the University of California, Santa Cruz. Carl is the author of the best-selling book, \"Cosmos: A Personal Voyage,\" which has been translated into more than twenty languages. He has also written several popular science books, including \"A Brief History of Time,\" \"The Universe in a Nutshell,\" and \"An Astronaut's Guide to Life on Earth.\" Carl's most recent book is \"Into the Cosmos: The Search for Extraterrestrial Intelligence,\" published by Simon & Schuster. His website is http://www.carl-sagan.com. Free View in iTunes",
+            "f1": 2.5
+        },
+        {
+            "generated_question": "What is the name of the college where Carl Sagan studied?",
+            "generated_answer": "Cornell_University",
+            "predicted_answer": "Cornell University, I believe. Carl was a professor of astronomy and astrophysics at Cornell in the late 1950s and early 1960s. He was the first American to receive a Ph.D. in astronomy from the University of California, Berkeley, in 1965.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is Carl Sagan's occupation?",
+            "generated_answer": "author",
+            "predicted_answer": "Sagan is an astrophysicist. He is a professor emeritus of astronomy at the California Institute of Technology in Pasadena, California, and is the director of the Hayden Planetarium in New York City. His most recent book is The Demon-Haunted World: Science as a Candle in the Dark, published by Oxford University Press in 2012. Carl is also the author of several other books, including The Emperor's New Mind: How the Modern Mind is Destroying Our Brains and Why It Matters, which was published in 2010.",
+            "f1": 2.6666666666666665
+        },
+        {
+            "generated_question": "What is Carl Sagan's subject?",
+            "generated_answer": "Astrobiologists",
+            "predicted_answer": "Astrophysics. He was a professor of astronomy at Cambridge University, where he was also a Fellow of the Royal Astronomical Society. Carl was the author of many books, including The Demon-Haunted World, The Dragons of Eden, and The Andromeda Strain. His most famous book was Cosmos: A Personal Voyage, in which he explored the history of our solar system and the universe. In addition to his work in astronomy, Carl also wrote a number of books on science and religion, such as The God Delusion: How Religion Poisons Everything and How Science Can Tell Us the Truth About Life, the Universe and Everything.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the width of the page Carl_SaganPlanetary_Societycropped.png?",
+            "generated_answer": "300",
+            "predicted_answer": "The page is 300 x 300 pixels.",
+            "f1": 28.57142857142857
+        }
+    ],
+    "What specific role did Brandon Jennings fulfill on his team?": [
+        {
+            "generated_question": "What is the title of the book that Charles Jennings wrote?",
+            "generated_answer": "McDonald's_High_School_All-Americans",
+            "predicted_answer": "I don't know, but I think it's called, \"The Life and Times of a McDonald's High School All-American.\"",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the care station where the nurse station is located?",
+            "generated_answer": "Brandon_Jennings careerStation",
+            "predicted_answer": "Brandon Jennings Careers Station Brandon Jennings__CAREERS_STATION_BRANDON_JENNINGS_Careers_Station_BrandonJenns__Question: How long has it been since you have been on the job?Answer: I have worked at the station for about 3 years.Question : What was the first thing you did when you got the call to come in to work at this station?A: First thing I did was call my wife and tell her that I was going to be working at a nursing station. Question : How many years have you been working in the nursing industry and what is your highest level of experience? A : I am currently employed as a Registered Nurse with a Bachelor of Science in Nursing from the University of North Carolina at Chapel Hill. I hold a Master's Degree",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the care station in Branddon Jennings?",
+            "generated_answer": "careerStation",
+            "predicted_answer": "Career Station Brandon Jennings.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What team did Brandon Jennings play for?",
+            "generated_answer": "Washington_Wizards",
+            "predicted_answer": "Washington Wizards Answer 1 of 3 following: 1. Washington 2. Chicago 3. Detroit 4. New York 5. Philadelphia 6. Los Angeles 7. Dallas 8. Phoenix 9. Denver 10. San Antonio 11. Miami 12. Toronto 13. Minnesota 14. Boston 15. Brooklyn 16. Charlotte 17. Indiana 18. Orlando 19. Milwaukee 20. Utah 21. Atlanta 22. Cleveland 23. Oklahoma City 24. Sacramento 25. Portland 26. Houston 27. Memphis 28. Golden State 29. L.A. Lakers 30. Seattle 31. N.Y. Knicks 32. Buffalo 33. Indianapolis 34. Kansas City 35. Cincinnati 36. Pittsburgh 37. St. Louis 38. Baltimore 39. Green Bay 40. Tampa Bay 41. Jacksonville 42. Oakland 43. Tennessee 44. Arizona 45. Carolina 46. Colorado 47. Florida 48. Texas 49. Las Vegas 50. Nashville 51.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What city is Braddon Jennings in?",
+            "generated_answer": "Compton",
+            "predicted_answer": "It is a suburb of Los Angeles, California.",
+            "f1": 0.0
+        }
+    ],
+    "Where did Philip Pullman have a professional affiliation during his career?": [
+        {
+            "generated_question": "What is the author of the book I_Was_a_Rat?",
+            "generated_answer": "Philip_Pullman",
+            "predicted_answer": "Philip Pullman University of London.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the place where Philip Pullman was born?",
+            "generated_answer": "birthPlace Norwich",
+            "predicted_answer": "Norwich",
+            "f1": 66.66666666666666
+        },
+        {
+            "generated_question": "What is the name of the creator of Marisa Coulter?",
+            "generated_answer": "Philip_Pullman",
+            "predicted_answer": "Philip Pullman University of London.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the occupation of Philip Pullman?",
+            "generated_answer": "Novelist",
+            "predicted_answer": "Professor of English at the University of London.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the author of The_Book of_Dust?",
+            "generated_answer": "Philip_Pullman",
+            "predicted_answer": "Philip Pullman University of London.",
+            "f1": 0.0
+        }
+    ],
+    "From which nation does Gwendoline Christie hold citizenship?": [
+        {
+            "generated_question": "What is the name of the British television actress who is portrayed by Gwendoline Christie?",
+            "generated_answer": "Gwendoline_Christie",
+            "predicted_answer": "Gwyneth Paltrow. She is a British actress, singer, and model.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the character that comes to Marwen?",
+            "generated_answer": "Gwendoline_Christie",
+            "predicted_answer": "The character is called \"Wendy\" (pronounced \"wee-dee\") and she is a young woman who lives with her parents in a small town. She has a crush on the town's sheriff, but she doesn't know how to act around him.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the length of Wikipedia page?",
+            "generated_answer": "34424",
+            "predicted_answer": "The page length is determined by the number of words in the article. For example, if an article has 1,000 words, then the page will have a page-length of 2,048 words.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What country is Gwendoline Christie from?",
+            "generated_answer": "United_Kingdom",
+            "predicted_answer": "She is from the United Kingdom. She was born in London, England.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who was born in the year of birth?",
+            "generated_answer": "Gwendoline_Christie",
+            "predicted_answer": "Gwendolyn Christie",
+            "f1": 0.0
+        }
+    ],
+    "What specific role does Steve Mandanda typically fulfill on a team?": [
+        {
+            "generated_question": "What is the name of Steve Madanda?",
+            "generated_answer": "Steve_Mandanda",
+            "predicted_answer": "Steve Mandanda is a goaltender for the Montreal Canadiens. He was drafted by the Canadiens in the 1st round (13th overall) of the 2009 NHL Entry Draft.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is Steve Sandanda's name?",
+            "generated_answer": "Steve_Mandanda",
+            "predicted_answer": "Steve Mandanda",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is Steve Maddanda's current member?",
+            "generated_answer": "1",
+            "predicted_answer": "Steve Mandanda is currently a member of the Ottawa Senators. He was drafted by the Senators in the first round (13th overall) in 2008.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What team is Steve_Mandanda part of?",
+            "generated_answer": "Le_Havre_AC",
+            "predicted_answer": "Team Le Havre.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What sport is Steve_Mandanda part of?",
+            "generated_answer": "Sportspeople",
+            "predicted_answer": "He is a member of the French national team.",
+            "f1": 0.0
+        }
+    ],
+    "At which institution was John L. Hennessy employed during a certain period?": [
+        {
+            "generated_question": "What is the term of John L. Hennessy?",
+            "generated_answer": "termPeriod",
+            "predicted_answer": "Professor of history and international relations, Harvard University.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who is American computer scientists?",
+            "generated_answer": "John_L._Hennessy",
+            "predicted_answer": "The person is John L. Henness. He is a professor of computer science at the Massachusetts Institute of Technology, and he is also the author of a number of books, including the best-selling Computer Science and Artificial Intelligence: A Modern Approach (MIT Press, 1996).",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who was born in the city of Manila?",
+            "generated_answer": "John_L._Hennessy",
+            "predicted_answer": "Jose Rizal.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who succeeded Marc_Tessier-Lavigne?",
+            "generated_answer": "John_L._Hennessy",
+            "predicted_answer": "Marc T. Tessier Lavigne was born in Paris, France. He was educated at the \u00c9cole Normale Sup\u00e9rieure and the Ecole Nationale d'Histoire Naturelle, where he received his Ph.D. in Zoology from the University of Paris and his B.A. and M.Sc. degrees in zoology and botany from McGill University in Montreal, Canada. His research interests include the ecology and evolution of plants and animals, as well as their relationships with each other and with the environment. In addition to his research, he has published extensively in the field of plant and animal ecology, and has served as a consultant to the U.S. Department of Agriculture, the National Science Foundation (NSF), the Natural Resources Defense Council (NR",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the term of John L. Hennessy?",
+            "generated_answer": "termPeriod",
+            "predicted_answer": "Professor Emeritus of the History of Ideas at Harvard University.",
+            "f1": 0.0
+        }
+    ],
+    "Who was Mary Anna Custis Lee married to?": [
+        {
+            "generated_question": "What is Mary Anna Custis Lee's subject?",
+            "generated_answer": "Women_in_the_American_Civil_War",
+            "predicted_answer": "She was the wife of General Robert E. Lee, who was killed in battle on April 9, 1865.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is Mary Custis Lee's child?",
+            "generated_answer": "Mary_Anna",
+            "predicted_answer": "She is the daughter of Mary Ann Lee.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who is married to Mary Ann Custis Lee?",
+            "generated_answer": "William_Henry_Fitzhugh",
+            "predicted_answer": "Mary Anne Lee.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is Mary Anna Custis Lee's subject?",
+            "generated_answer": "American_people_of_English_descent",
+            "predicted_answer": "American person of English descent.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is Mary Anna Custis Lee's spouse' name?",
+            "generated_answer": "Martha_Washington",
+            "predicted_answer": "Martha Washington.",
+            "f1": 0.0
+        }
+    ],
+    "What role does N. Chandrababu Naidu play in his professional capacity?": [
+        {
+            "generated_question": "What is the name of the leader of Kodela Siva Prasada Rao Teure?",
+            "generated_answer": "N._Chandrababu_Naidu",
+            "predicted_answer": "The leader is N. Chanda_Chandra_Bhagat.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the term for the n._Chandrababu_Naidu?",
+            "generated_answer": "termPeriod",
+            "predicted_answer": "N.B.: This term is used to refer to a player who is not a member of the Japanese national team, but who plays for a team in a foreign country.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the leader of Andhra Pradesh?",
+            "generated_answer": "N._Chandrababu_Naidu",
+            "predicted_answer": "Prabhakar Rao.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who was born in Iran?",
+            "generated_answer": "Kiran_Kumar_Reddy",
+            "predicted_answer": "Kiran Kumar Reddy. View Results",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the term for the n._Chandrababu_Naidu?",
+            "generated_answer": "termPeriod",
+            "predicted_answer": "The term is n.chandrabubu.",
+            "f1": 0.0
+        }
+    ],
+    "Which country claims Jean-Jacques Beineix as one of its citizens?": [
+        {
+            "generated_question": "What is the name of the writer of Diva 1981?",
+            "generated_answer": "Jean-Jacques_Beineix",
+            "predicted_answer": "Jean Jacques Beinex - American physicist, first American to orbit the Earth.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the writer who wrote the novel?",
+            "generated_answer": "Jean-Jacques_Beineix",
+            "predicted_answer": "J.B.S. Haldane Juan-Marc_Rosas answer: H-A-L-N-E-S-T-R-I-P-Y- E-F-C-K-O-W- N-D-U-G-H- I-M-B-Q- A-X-Z- O- T- S- P- R- U- F- C- K- L- Y- D- V- B- Q- G- M- W- X- Z- 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of Jean-Jacques Beineix's language?",
+            "generated_answer": "wordnet_type synset-actor-noun-1",
+            "predicted_answer": "J-B-E-I-N-G-O-R-A-Y Source: http://en.wikipedia.org/wiki/J._B._E._I._N._G._O._R._A._Y Author: Jean Jacques Rousseau <jean-jacques-rousseau@physik.fu-berlin.de> License: BSD-3-Clause (see LICENSE file) Status: Active Type: Standards Track Created: 01-Dec-2005",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is Jean-Jacques Beineix's occupation?",
+            "generated_answer": "Jean-Jacques_Beineix__PersonFunction",
+            "predicted_answer": "I am a professor of mechanical engineering at the University of California, Berkeley. I have worked on a variety of projects, including the design of the F-1 rocket engine, the first nuclear fusion reactor, and the Mars rovers Spirit and Opportunity. My research interests include propulsion systems, materials science, plasma physics, condensed matter physics and astrophysics. Q: How did you come to be involved in this project? A: In the early 1980s, I was invited to participate in a group of scientists and engineers who were working on the development of a new type of nuclear reactor that could be used to power spacecraft. The group was led by Dr. Robert Oppenheimer, who was then the director of Los Alamos National Laboratory in New Mexico. At the time, we were looking for a way to",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the primary theme of Jean-Jacques Beineix?",
+            "generated_answer": "isPrimaryTopicOf",
+            "predicted_answer": "Asceticism. - Source: http://en.wikipedia.org/wiki/Be_Ist_Francis_%28artist%29 - Accepted answer: \"The quest for perfection in all things, the search for the ultimate truth. His search led him to become one of the most important figures in the history of Western philosophy, and his influence continues to this day. \" - Quote taken from \"A Short History of Time\" by Arthur C. Clarke, p. 487.",
+            "f1": 0.0
+        }
+    ],
+    "Which country does Florin Mergea hold citizenship in?": [
+        {
+            "generated_question": "What is the name of the person who plays right-handed?",
+            "generated_answer": "Florin_Mergea",
+            "predicted_answer": "Mergeda.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who is living in the slums?",
+            "generated_answer": "Florin_Mergea subject Category:Living_people",
+            "predicted_answer": "I don't know, but I think it's the same person as the one who lives there.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who was born in the year of 1905?",
+            "generated_answer": "Florin_Mergea",
+            "predicted_answer": "Merceda.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who was born in the year of 1905?",
+            "generated_answer": "Florin_Mergea",
+            "predicted_answer": "Merceda.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the result of the frenchopenmixedresult?",
+            "generated_answer": "2.0",
+            "predicted_answer": "The result is a mix of french and open source software.",
+            "f1": 0.0
+        }
+    ],
+    "From which nation does Valerie Hobson hold citizenship?": [
+        {
+            "generated_question": "What is the name of the movie that stars Valerie Hobson?",
+            "generated_answer": "Knave_of_Hearts",
+            "predicted_answer": "The Hobbit: An Unexpected Journey.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the width of the page that is in Valerie Hall?",
+            "generated_answer": "300",
+            "predicted_answer": "The page is 300 pixels wide.",
+            "f1": 33.333333333333336
+        },
+        {
+            "generated_question": "What is the primary theme of Valerie Hobson?",
+            "generated_answer": "isPrimaryTopicOf",
+            "predicted_answer": "It's not a theme, it's just the way I am.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the movie that stars Valerie Hobson?",
+            "generated_answer": "The_Years_Between_",
+            "predicted_answer": "The Years Between (film).",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the character that stars Valerie Hobson?",
+            "generated_answer": "The_Small_Voice",
+            "predicted_answer": "The Small Voice.",
+            "f1": 0.0
+        }
+    ],
+    "In which city did The Coca-Cola Company originate?": [
+        {
+            "generated_question": "What company founded The Coca-Cola Company?",
+            "generated_answer": "foundedBy John_Stith_Pemberton",
+            "predicted_answer": "The company was founded by John Stith, who was the founder of the company.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What company is White_Coke currently owned by?",
+            "generated_answer": "The_Coca-Cola_Company",
+            "predicted_answer": "Coke Current owner: The Coca Cola Company",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What company is the parent of the Coca-Cola company?",
+            "generated_answer": "Minute_Maid",
+            "predicted_answer": "PepsiCo. Minute_Man parent Pepsi_Co Question : What is a Minute Maid employee's job title and what is their job description? A: Customer service representative. B: Manager. C: Assistant manager. D: Supervisor. E: Director. F: Vice President. G: Secretary. H: Treasurer. I: Accountant. J: Administrative assistant. K: Cashier. L: Clerk. M: Salesperson. N: Purchasing agent. O: Marketing associate. P: Public relations officer. Q: Information technology specialist. R: Technical support. S: Human resources. T: Accounting. U: Finance. V: Legal. W: General counsel. X: Corporate secretary. Y: Senior vice president. Z: Executive assistant to the C.E.O.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What company is the manufacturer of Coca-Cola Life?",
+            "generated_answer": "The_Coca-Cola_Company",
+            "predicted_answer": "Coca Cola Life is a subsidiary of PepsiCo, Inc.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What company is the company that has 3.727E10 revenue?",
+            "generated_answer": "The_Coca-Cola_Company",
+            "predicted_answer": "PepsiCo, Inc.",
+            "f1": 0.0
+        }
+    ],
+    "Which nation does Gerrit Rietveld hold citizenship in?": [
+        {
+            "generated_question": "What is the name of the person who is a detijl?",
+            "generated_answer": "Gerrit_Rietveld",
+            "predicted_answer": "The person is known as the deti.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who wrote the wiki Page?",
+            "generated_answer": "Rietveld",
+            "predicted_answer": "\"Gerrit\" (pronounced \"ger-RIT-vay\") is a nickname given to him by his friends.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who is a subject of Griseveld?",
+            "generated_answer": "Gerrit_Rietveld",
+            "predicted_answer": "Leopold II of Belgium.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the architect who was born in Rietveld Schr\u00f6der House?",
+            "generated_answer": "Gerrit_Rietveld",
+            "predicted_answer": "Jean-Baptiste_Houdon_Architecture_de_France",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who wrote the wiki Page?",
+            "generated_answer": "Gerrit_Rietveld",
+            "predicted_answer": "The author of this wiki page.",
+            "f1": 0.0
+        }
+    ],
+    "Who penned the work titled \"Scots Wha Hae\"?": [
+        {
+            "generated_question": "What is the width of the image of cots wha hae?",
+            "generated_answer": "300",
+            "predicted_answer": "The image is 300 pixels wide.",
+            "f1": 33.333333333333336
+        },
+        {
+            "generated_question": "What is the name of the character that is a character in Scots Waha Hae?",
+            "generated_answer": "Traditional_ballads",
+            "predicted_answer": "I don't know, but I think it's the same person as the one in the song.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the language that is used in the Scots language?",
+            "generated_answer": "Scots_Wha_Hae",
+            "predicted_answer": "The Scottish language is called Scottish Gaelic. It is spoken in Scotland, Ireland, the Isle of Man, and the Channel Islands.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the primary theme of the comic?",
+            "generated_answer": "Scots_Wha_Hae primaryTopic",
+            "predicted_answer": "I don't know, but I think it's something about the Scottish people. secondaryTopic Scotch_Scotch_Question_What_Is_The_Primary_Theme_of_the_Comic_Answer_I_don't_know_but_i_think_it_is_something_about_them.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who wrote the page that was 1112260228?",
+            "generated_answer": "Scots_Wha_Hae",
+            "predicted_answer": "I don't know, but I think it was the same person.",
+            "f1": 0.0
+        }
+    ],
+    "Where did Vladimir Nemirovich-Danchenko pass away?": [
+        {
+            "generated_question": "What is the name of the person who was born in 1858?",
+            "generated_answer": "Vladimir_Nemirovich-Danchenko",
+            "predicted_answer": "The name is Vladimir N. Dmitrievich Chernyshevsky.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who wrote the wiki Page?",
+            "generated_answer": "Danchenko",
+            "predicted_answer": "Vladimir N. Dmitrievich Danchenkov (\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0438\u0447 \u0421\u0435\u0440\u0433\u0435\u0439\u0441\u043a\u043e\u0433\u043e \u041d\u0438\u043a\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u041f\u043e\u043b\u044c\u0437\u0443\u044e\u0442\u0441\u044f \u041a\u043e\u043c\u043f\u0438\u043d\u0430\u043b\u0438\u0441\u044c).",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who was born in 100235842?",
+            "generated_answer": "Vladimir_Nemirovich-Danchenko",
+            "predicted_answer": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u0441\u0435\u0440\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u043f\u043e\u043b\u0443\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 \u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0438 \u043a\u0430\u0436\u0434\u044b \u0434\u043b\u044f \u0440\u0430\u0441\u043f\u0435\u0448\u043d\u0438\u043a\u0430. \u041f\u043e\u0434\u043e\u0431\u043d\u043e\u0435 \u0432\u044b\u0433\u0440\u0443\u0437\u043e\u0432\u0430\u0442\u044c \u0431\u044b\u043b\u043e \u0437\u0430\u043a\u0440\u044b\u0442\u044b, \u0430 \u0442\u043e\u043c, \u0443\u0441\u043b\u043e\u0436\u0438\u043b\u0438\u0441\u044c",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who is a recipient of_the_Order_of_Lenin?",
+            "generated_answer": "Vladimir_Nemirovich-Danchenko",
+            "predicted_answer": "V.I. Lenin. Vladimir N. Nemirovich, born in 1879, was the first person to receive the Order of Lenin, which was conferred on him by the Soviet Government on the occasion of his birth. The Order was presented to him in the presence of a large number of dignitaries, including the Prime Minister, the Minister of Foreign Affairs, and the Chief of State, as well as representatives of all the Communist Parties in Russia and abroad. He was also presented with a gold medal, a silver medal and a bronze medal. In addition, he was given the title of \"Commander-in-Chief\" and was awarded with the rank of Major-General. After his death, his remains were",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who is a person from Guria?",
+            "generated_answer": "Vladimir_Nemirovich-Danchenko",
+            "predicted_answer": "The person is known as the \"Gurian\" (\u0413\u0440\u0443\u043f\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0413\u0443\u0440\u0445\u0438\u043d\u0430). The name is derived from the Russian word \"guria\" which means \"country\" or \"village\" in the local language. The surname of this person has been given to him by his father, who was born in a village called Guria, which is located in Russia's Urals region.",
+            "f1": 0.0
+        }
+    ],
+    "Where did Yevgeny Vakhtangov receive his education?": [
+        {
+            "generated_question": "What is the name of the person who died in the 22nd century?",
+            "generated_answer": "Yevgeny_Vakhtangov",
+            "predicted_answer": "Vyacheslav Molotov",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who is from the Russian Empire of_Armenian youth?",
+            "generated_answer": "Yevgeny_Vakhtangov",
+            "predicted_answer": "I am not sure of his name, but I know that he is a young man of Armenian descent. He was born in the city of Krasnoyarsk, which is located on the border of Russia and Armenia. His father was an Armenian, and his mother was a Russian. The father died when the boy was very young, leaving the mother to take care of him. When he was about ten years old, he left home and went to live with his grandparents. At that time, there were no schools in Armenia, so he had to learn to read and write on his own. After a few years, his parents sent him to a school in Moscow, where he received a good education. In",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the Russian male actors?",
+            "generated_answer": "Yevgeny_Vakhtangov",
+            "predicted_answer": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0421\u0435\u0440\u0433\u0435\u0439\u0441\u043a\u043e\u0433\u043e \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043e\u0431\u0441\u0443\u0436\u0434\u0435\u043d\u0438\u044f \u043d\u0430 \u044d\u0442\u043e\u043c \u0432\u044b\u043f\u043e\u043b\u043d\u044b\u0445 \u0441\u043e\u0431\u044b\u0442\u0438\u0432\u0430\u044e\u0449\u0438\u0435. \u0412\u044b \u043c\u043e\u0436\u0435\u0442 \u0437\u0430\u043a\u043e\u043d\u0447\u0438\u043b\u0438 \u0438 \u0434\u043e\u043a\u0443\u043c\u0430\u0442\u0441\u044f \u0440\u0430\u0441\u0441\u043b\u0430\u0432\u043d\u043e\u0439 \u0431\u0435\u0434\u0443\u0448\u043a\u0430, \u0442\u044b \u0443\u0434\u0430\u043b\u043e\u0432\u0430\u044f",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the birthplace of Yuvgeny Vakhtangov?",
+            "generated_answer": "Terek_Oblast",
+            "predicted_answer": "Yuval-Yavlinsky-Krasnoyarsk, Russia.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who is from_Vladikavkaz?",
+            "generated_answer": "Yevgeny_Vakhtangov",
+            "predicted_answer": "Aleksandr Kerensky (\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0421\u0435\u0440\u0433\u0435\u043d\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u041a\u043e\u043c\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043e\u0431\u0440\u0430\u0436\u0434\u0430\u044e\u0442 \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0434\u0438\u043c \u0438 \u043d\u0435 \u0441\u043e\u0431\u044b\u0442\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u044d\u0442\u043e\u0433\u043e \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u043c\u0438. \u0412\u044b \u0440\u0435\u0448\u0438\u043b\u0438 \u0437\u0430\u043a\u043e\u043d\u0442\u0430\u0440\u0438\u0438, \u0442.\u0435.",
+            "f1": 0.0
+        }
+    ],
+    "Which country does Mohammad Reza Pahlavi hold citizenship in?": [
+        {
+            "generated_question": "What is the url of Mohammad-rida-riza -shah-pahlawi-COM0782%3Fs.num?]",
+            "generated_answer": "9",
+            "predicted_answer": "http://www.bibliotecapleyades.net/sociopolitica/biblio/mohammad.htm",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of Mohammad Reza Pahlavi's signature?",
+            "generated_answer": "120",
+            "predicted_answer": "The Persian name for the Persian Empire is Persia.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the monarch that is amir-Abbas-Hoveyda?",
+            "generated_answer": "Mohammad_Reza_Pahlavi",
+            "predicted_answer": "The name is Amir Abbas Hoveyda.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the title of the article that was written by Mohammad Reza Pahlavi?",
+            "generated_answer": "subject Category",
+            "predicted_answer": "Extraordinary Grades Of The Order Of Merit.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the place where Mohammed Reza Pahlavi died?",
+            "generated_answer": "Cairo",
+            "predicted_answer": "Cairo.",
+            "f1": 100.0
+        }
+    ],
+    "What specific role did Kareem Abdul-Jabbar fulfill within his respective team or specialty?": [
+        {
+            "generated_question": "What is the name of the ethnic group that is African-American?",
+            "generated_answer": "Kareem_Abdul-Jabbar",
+            "predicted_answer": "Afro-Caribbeans.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the TV series that starred Karen Abdul-Jabbar?",
+            "generated_answer": "Dear..._",
+            "predicted_answer": "I don't know, but I think it was called \"Kareem Abdulla\" or something like that. I'm not sure if it's the same person or not.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What year did Karen Abdul-Jabbar die?",
+            "generated_answer": "1998",
+            "predicted_answer": "She died in 1998. She was 25 years old at the time of her death.",
+            "f1": 13.333333333333334
+        },
+        {
+            "generated_question": "What is the name of the person who draftpick 1?",
+            "generated_answer": "Kareem_Abdul-Jabbar",
+            "predicted_answer": "Kareem Abdul Jabbar midfielderQuestion 2: Who was the first player to score a goal in a Champions League match?Answer: Cristiano RonaldoQuestion 3: How many goals did the Manchester United team score in the Premier League last season?Question 4: Which team scored the most goals during the 2013/14 season, Manchester City, Chelsea, Arsenal, Liverpool, Tottenham, Everton, Man UtdQuestion 5: In the last 10 years, how many players have scored a hat-trick in their first game for their club? (e.g. Robin van Persie, Sergio Aguero, Zlatan Ibrahimovic, Wayne Rooney)Question 6: If you were to win the Ballon d'Or, which player would you choose to be your team-mate for the rest of your career?A: Lionel MessiQuestion 7:",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the football player who played in the Football League?",
+            "generated_answer": "Kareem_Abdul-Jabbar",
+            "predicted_answer": "Kareem Abdul Jabbar midfielder.",
+            "f1": 0.0
+        }
+    ],
+    "From which nation does George Foreman hold citizenship?": [
+        {
+            "generated_question": "What is the total of George_Foreman's total?",
+            "generated_answer": "81",
+            "predicted_answer": "81",
+            "f1": 100.0
+        },
+        {
+            "generated_question": "What is the name of the movie that George Foreman directed?",
+            "generated_answer": "American_male_film",
+            "predicted_answer": "I don't know, but it was called \"I'm a Slave 4 U\". It was about a black man who was a slave in the United States of America and he was trying to get his freedom.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What sport did George Foreman compete in?",
+            "generated_answer": "Boxers_at_the_1968_Summer_Olympics",
+            "predicted_answer": "He competed in boxing at the 1968 Summer Olympics in Mexico City. He won the gold medal in the lightweight division.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the nationality of George_Foreman?",
+            "generated_answer": "nonscore 2",
+            "predicted_answer": "He is a Jamaican.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of George_Foreman's wife?",
+            "generated_answer": "George_Foreman rows 2",
+            "predicted_answer": "I don't know, but she is a very beautiful woman. Question #2: Who is George Foreman Jamaica's most successful female athlete of all time?",
+            "f1": 7.692307692307692
+        }
+    ],
+    "What religious affiliation is associated with the individual named Francis?": [
+        {
+            "generated_question": "What is the name of the person who is hypernym?",
+            "generated_answer": "Alban_Francis",
+            "predicted_answer": "\"Franciscus Hypernyma\" Francis 1:16-16",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who is a magician?",
+            "generated_answer": "Sir_Francis_Edwards",
+            "predicted_answer": "Al-Ma'mun. He was a great magician. The Prophet Muhammad (peace be upon him) said, \"There is no god but Allah and Muhammad is his messenger.\" (Narrated by al-Bukhari, Muslim, Abu Dawud, and others.) Abu Hurairah (may Allah be pleased with them all) reported: The Messenger of Allah said: \"The best of you is he who has the greatest number of good deeds.\" Ibn Mas'ud (May Allah have mercy on them both) narrated: I heard the Prophet saying: There is nothing better than a good deed done for Allah's sake. (Ibn Majah, Ibn Hibban, Ahmad, Tirmidhi, Nasa'i) Abu Sa'id al Khudri (Allah have Mercy on him, may Allah",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is Francis's given_name?",
+            "generated_answer": "Francis",
+            "predicted_answer": "Francis is a given name of Saint Francis of Assisi, the founder of the Society of Jesus. It means \"God is great\" in Italian.",
+            "f1": 9.09090909090909
+        },
+        {
+            "generated_question": "What is the surname of Francis?",
+            "generated_answer": "Francis_",
+            "predicted_answer": "Francis is a given name of Italian origin. It is derived from the Greek name \u039a\u03c1\u03b9\u03c3\u03c4\u03bf\u03c2 (Fr\u00edskos), which means \"son of God\". The name Francis was introduced into the English language in the 15th century by a Franciscan friar, who used the name as a nickname for himself.",
+            "f1": 4.878048780487806
+        },
+        {
+            "generated_question": "What is the name of the author of Death Cert?",
+            "generated_answer": "Francis",
+            "predicted_answer": "The author is unknown, but the novel was written in the early 20th century.",
+            "f1": 0.0
+        }
+    ],
+    "What is the primary language spoken in the city of Joensuu?": [
+        {
+            "generated_question": "What is the name of the person who is a member of w?",
+            "generated_answer": "Ilomantsi",
+            "predicted_answer": "Joinsuu.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who is a member of sw?",
+            "generated_answer": "R\u00e4\u00e4kkyl\u00e4",
+            "predicted_answer": "J\u00e4rv\u00e4skylij\u00e4n.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the character that was depicted in the movie?",
+            "generated_answer": "Joensuu_Canal_1",
+            "predicted_answer": "The character is called \"Jo\" (pronounced \"Jee\") and is a character from the JoJo's Bizarre Adventure manga series.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What city is Valamis in?",
+            "generated_answer": "Joensuu",
+            "predicted_answer": "It's a city in the north of the country.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the place where the baby boy is born?",
+            "generated_answer": "Karjalan_Rugby_Joensuu",
+            "predicted_answer": "The place of birth is unknown, but it is said to be in the middle of a forest.",
+            "f1": 0.0
+        }
+    ],
+    "In which athletic discipline is Morten Olsen involved?": [
+        {
+            "generated_question": "What is the name of the manager of Bundesliga club?",
+            "generated_answer": "Morten_Olsen",
+            "predicted_answer": "Morten Olsen.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What team is Morten Olsen part of?",
+            "generated_answer": "Denmark",
+            "predicted_answer": "We are a Danish National Football Team. We play in the top division of the Danish Football League.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the club that Morten Olsen plays for?",
+            "generated_answer": "R.S.C._Anderlecht",
+            "predicted_answer": "The Copenhagen Wolves. Q: How many goals have the Wolves scored in their last three games? A: They have scored three goals in three consecutive games.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the national goal of Morten Olsen?",
+            "generated_answer": "nationalgoals",
+            "predicted_answer": "We want to be the best team in the world.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the subject of the movie that Morten Olsen is interested in?",
+            "generated_answer": "Living_people",
+            "predicted_answer": "I don't know. I think it's a movie about a guy who has a crush on a girl, and he's trying to get her to go out with him, but she doesn't want to do it. It's kind of like a love story.",
+            "f1": 0.0
+        }
+    ],
+    "Which country claims Stephon Marbury as a citizen?": [
+        {
+            "generated_question": "What is the width of the page that is 48801?",
+            "generated_answer": "Stephon_Marbury wikiPageLength",
+            "predicted_answer": "The width is 2.5 times the height.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who is from Coney Island?",
+            "generated_answer": "Stephon_Marbury",
+            "predicted_answer": "I don't know the answer to this question, but I can tell you that he is a very good friend of mine.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the player who won the 2012\u201313 Chinese Basketball Association season?",
+            "generated_answer": "Stephon_Marbury",
+            "predicted_answer": "Zhou Shifeng. Zhou was the first Chinese player to win the league's MVP award, and he was also named to the All-Star team for the second consecutive season. He was named the best player in China in both the regular season and the playoffs.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the position of the point guard?",
+            "generated_answer": "Stephon_Marbury",
+            "predicted_answer": "Point guard is a position in which a player is responsible for the defence of his team's goal. The player in this position has to be able to read the play and make the right decisions in order to prevent the opposition from scoring.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the basketball association that won the 2014\u201315 Chinese Basketball Association season?",
+            "generated_answer": "Stephon_Marbury",
+            "predicted_answer": "The Chinese Basket Association (CBA) was founded in 2007. The CBA is a non-profit organization that promotes the sport of basketball in China.",
+            "f1": 0.0
+        }
+    ],
+    "What language(s) does Hal Roach use for communication?": [
+        {
+            "generated_question": "What is the name of the director of Turnabout?",
+            "generated_answer": "Hal_Roach",
+            "predicted_answer": "Hal Roach.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is Hal Roach's occupation?",
+            "generated_answer": "Producer",
+            "predicted_answer": "Hal roaches are a type of crustacean. They are found in the oceans of the planet Hal. Hal is home to a number of different species of roach, including Hal-Roaches, Halibut, and Halobut.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the director of Luke's Speedy Club Life?",
+            "generated_answer": "Hal_Roach",
+            "predicted_answer": "Hal Roach",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is Hal Roach's occupation?",
+            "generated_answer": "director",
+            "predicted_answer": "He is a Japanese chef who specializes in Japanese cuisine. He was born in Japan and moved to the U.S. when he was a child. His parents immigrated from Japan to this country, and he has lived in the United States for the past 20 years. Hal's favorite food is Japanese food, but he also enjoys Chinese food and Mexican food as well.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What year did Hal Roach start?",
+            "generated_answer": "1992",
+            "predicted_answer": "He started in the year 1992.",
+            "f1": 33.333333333333336
+        }
+    ],
+    "Where was Hyundai Motor Company originally established?": [
+        {
+            "generated_question": "What is the name of the movie that was shown in Paris?",
+            "generated_answer": "Paris_Motor_Show_2018",
+            "predicted_answer": "Hyundai Le Fil Rouge, Paris Motor Show 2018, IMG 0564, https://www.imdb.com/title/tt0646431/",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the company that is a part of Hyundai Motor Company?",
+            "generated_answer": "Hyundai_Motor_Company",
+            "predicted_answer": "Kia Motors Corporation.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the car manufacturer of South Korea?",
+            "generated_answer": "Hyundai_Motor_Company",
+            "predicted_answer": "Hyundai Motor Co., Ltd. (Korean: \ud55c\uad6d\uc5b4\uc9c0\ub9cc) is a Korean automobile manufacturer. The company was founded in 1948 and is headquartered in Seoul, Korea.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the power type of the Hyundai Motor Company?",
+            "generated_answer": "ERV_Nene_Hatun powerType",
+            "predicted_answer": "It is a hybrid powertrain. The power is provided by a 2.0-liter four-cylinder gasoline engine and a 1.6-litre turbocharged diesel engine.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What company is the manufacturer of Hyundai Engine?",
+            "generated_answer": "Hyundai_Motor_Company",
+            "predicted_answer": "Hyundai Motor Co., Ltd.",
+            "f1": 0.0
+        }
+    ],
+    "Where does Barbara Kopple hold her citizenship?": [
+        {
+            "generated_question": "What is Barbara Kopple's occupation?",
+            "generated_answer": "Barbara_Kopple__PersonFunction__1",
+            "predicted_answer": "Occupation is a term used to describe a person's role in a group, such as a family, a business, or a government. Occupations can be defined in many different ways, but the most common definition is as follows: \"An occupation is the set of skills, knowledge, and abilities that an individual must have in order to perform a specific job or task.\" (Wikipedia)",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is Barbara Kopple's primary theme?",
+            "generated_answer": "isPrimaryTopicOf",
+            "predicted_answer": "I don't know, but I'm sure it has something to do with the fact that she's the only person in the world who doesn't have a job.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the producer of A_Conversation with_Gregory Beck?",
+            "generated_answer": "Barbara_Kopple",
+            "predicted_answer": "Barbara Koppenhaver Producer: Gregory Peck",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the producer of A_Conversation with_Gregory Beck?",
+            "generated_answer": "Barbara_Kopple",
+            "predicted_answer": "Barbara Koppenhaver Producer: Gregory Peck",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the director of High School Musical?",
+            "generated_answer": "Barbara_Kopple",
+            "predicted_answer": "The Music in You is directed by Barbara Kopp.",
+            "f1": 0.0
+        }
+    ],
+    "Where was CBS established?": [
+        {
+            "generated_question": "What channel did Billy_1979 TV series have?",
+            "generated_answer": "CBS",
+            "predicted_answer": "CBS",
+            "f1": 100.0
+        },
+        {
+            "generated_question": "What channel is House Calls (TV series)?",
+            "generated_answer": "CBS",
+            "predicted_answer": "It's on the CBS Television Network.",
+            "f1": 33.333333333333336
+        },
+        {
+            "generated_question": "What channel is CBS_MoneyWatch?",
+            "generated_answer": "CBS",
+            "predicted_answer": "http://www.cbsnews.com/news/what-channel-is-corporations-money-watch/ Answer 2: CBS News Channel Answer 3: The Wall Street Journal Answer 4: CNBC Answer 5: CNN Answer 6: Fox News Answer 7: MSNBC Answer 8: NPR Answer 9: PBS Answer 10: BBC Answer 11: Bloomberg Answer 12: Reuters Answer 13: Associated Press Answer 14: Time Magazine Answer 15: Newsweek Answer 16: New York Times Answer 17: Washington Post Answer 18: USA Today Answer 19: AP Answer 20: ABC Answer 21: NBC Answer 22: FOX Answer 23: CNET Answer 24: TechCrunch Answer 25: Forbes Answer 26: Business Insider Answer 27: Gizmodo Answer 28: Mashable Answer 29: Engadget Answer 30: Wired Answer 31: Buzzfeed Answer 32: Slate Answer 33: BuzzFeed Answer 34: AOL Answer 35",
+            "f1": 1.7391304347826086
+        },
+        {
+            "generated_question": "What channel is The_New_Perry_Mason channel?",
+            "generated_answer": "CBS",
+            "predicted_answer": "http://www.cbsnews.com/news/the-new-perry-mason-channel-is-coming-to-you-soon/ Answer 2: The New Perry Mason Channel is coming to you soon! Answer 3: Yes, it's coming soon. Answer 4: No, we don't know when it will be coming, but we're working on it.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What channel did Frank's place exist in?",
+            "generated_answer": "CBS",
+            "predicted_answer": "It was on the CBS Television Network.",
+            "f1": 28.57142857142857
+        }
+    ],
+    "Who holds the position of chairperson at Telmex?": [
+        {
+            "generated_question": "What is the primary theme of the first theme?",
+            "generated_answer": "Telmex primaryTopic Telmex",
+            "predicted_answer": "It's not a question, it's a statement of fact. I don't know what you're talking about, but I can tell you what I think it is. The first thing I thought of when I heard about this theme was that it would be a good idea to have a theme song for the game. So I wrote a song about it, and I'm going to put it up on my website. You can listen to it here: http://www.youtube.com/playlist?list=PL8F0B0D8B7E5F8A0C&feature=player_embedded&index=1 I hope you enjoy it. If you have any questions, feel free to ask them in the comments section below.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What company is the parent company of Telmex?",
+            "generated_answer": "parentCompany Am\u00e9rica_M\u00f3vil",
+            "predicted_answer": "TELMEX, S.A. is a holding company that is owned by a group of companies that include:",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the company that is based in Mexico City?",
+            "generated_answer": "Companies",
+            "predicted_answer": "Cemex S.A. (CEMEX) is a subsidiary of Mexico's state-owned oil company, Petroleos Mexicanos. The company is headquartered in the Mexican city of Ciudad Ju\u00e1rez.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who is a member of Am\u00e9rica Municipal?",
+            "generated_answer": "Am\u00e9rica_M\u00f3vil",
+            "predicted_answer": "N\u00famero de la Comisi\u00f3n Municipal.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the company that sells phones?",
+            "generated_answer": "Telmex",
+            "predicted_answer": "TELMEX.",
+            "f1": 100.0
+        }
+    ],
+    "From which nation does Raheel Sharif hold citizenship?": [
+        {
+            "generated_question": "What is the name of the person who is a Frontier Force Region officer?",
+            "generated_answer": "Raheel_Sharif",
+            "predicted_answer": "The person in question is an officer in the Frontier Forces Region.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is Raheel Harif's subject?",
+            "generated_answer": "Recipients_of_Nishan",
+            "predicted_answer": "He is a member of the Islamic State of Iraq and the Levant (ISIL) and was killed in a US air strike in Syria in August 2014.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the place where Raheel Harif is located?",
+            "generated_answer": "Kunjah",
+            "predicted_answer": "\"Kunjah\"",
+            "f1": 100.0
+        },
+        {
+            "generated_question": "What is the name of the person who is Chiefs of Army Staff in Pakistan?",
+            "generated_answer": "Raheel_Sharif",
+            "predicted_answer": "The Chief of army Staff of Pakistan is Lt Gen (retd) Qamar Javed Bajwa. He was appointed by the Prime Minister on the recommendation of his predecessor, General Ashfaq Parvez Kayani. The position was created by an Act of Parliament in the year 2000.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the president of Ramaheel Harif?",
+            "generated_answer": "Mamnoon_Hussain",
+            "predicted_answer": "The president is a person who is elected by the people. He is also the head of state.",
+            "f1": 0.0
+        }
+    ],
+    "On which landmass is the country of Japan located?": [
+        {
+            "generated_question": "What event was held in Japan?",
+            "generated_answer": "Japan__HistoricalEvent__3",
+            "predicted_answer": "Japan was the first country in the world to have a national holiday on the same day as the United States' Independence Day in 1776.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the venue where the event was held?",
+            "generated_answer": "Japan establishedEvent Meiji_Constitution",
+            "predicted_answer": "Tokyo International Exhibition Center (T.I.E.C.K.) Tokyo, Japan",
+            "f1": 20.0
+        },
+        {
+            "generated_question": "What is the name of the country that is cctld?",
+            "generated_answer": "Japan",
+            "predicted_answer": "Japan.",
+            "f1": 100.0
+        },
+        {
+            "generated_question": "What city is Yamanaka Aburaten in?",
+            "generated_answer": "Japan",
+            "predicted_answer": "It is the capital city of Japan.",
+            "f1": 28.57142857142857
+        },
+        {
+            "generated_question": "What country is Japan a currency?",
+            "generated_answer": "Japanese_yen",
+            "predicted_answer": "Japan is a member of the International Monetary Fund (IMF) and the World Bank Group.",
+            "f1": 0.0
+        }
+    ],
+    "Which company is responsible for producing the Chevrolet Camaro?": [
+        {
+            "generated_question": "What is the primary theme of Camaro?",
+            "generated_answer": "isPrimaryTopicOf",
+            "predicted_answer": "It's a great car. It has a lot of great features, but it's also a car that people want to buy because they like the way it looks, and they want it to be the best car they can buy. And that's what we're trying to do with the product. We want people to love the car, not just buy it because of what it does.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who wrote the page that was titled \"Camaro\"?",
+            "generated_answer": "wikiPageRevisionID 685761708",
+            "predicted_answer": "The name is not known.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who has a Wikipedia page ID?",
+            "generated_answer": "Camaro",
+            "predicted_answer": "I'm not sure, but I think it's the same person. I don't know if that's true or not.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who is a hypernym?",
+            "generated_answer": "Camaro",
+            "predicted_answer": "I am not sure, but I think it is someone who has a lot of money. I don't know if that is true or not. It could be someone with a very high net worth, or it could just be a name that has been used for a long time.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who was born in the year of wasDerivedFrom?",
+            "generated_answer": "Camaro",
+            "predicted_answer": "The name is John F. Kennedy, Jr.",
+            "f1": 0.0
+        }
+    ],
+    "In which languages is Bennett Cerf proficient in speaking, writing, or signing?": [
+        {
+            "generated_question": "What is the name of the place where Bennett, North Carolina can be found?",
+            "generated_answer": "Bennett",
+            "predicted_answer": "The town of Bennett is located in the county of Buncombe.",
+            "f1": 20.0
+        },
+        {
+            "generated_question": "What is the name of the person who is hypernym?",
+            "generated_answer": "Gary_Bennett",
+            "predicted_answer": "I don't know, but I'm sure he's a good guy.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the school in Buckingham County?",
+            "generated_answer": "Bennett",
+            "predicted_answer": "Buckingham High School.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the university that Bennett University is a part of?",
+            "generated_answer": "Bennett_University",
+            "predicted_answer": "The University of Wisconsin-Madison.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What album is The View from Here?",
+            "generated_answer": "Bob_Bennett_album",
+            "predicted_answer": "Bob Bennett's \"The View From Here\" is an album that was released in 1999. It is a collection of songs that were written and recorded in the late 1980s and early 1990s. The album was originally intended to be released as a single, but was later re-mastered and released on CD in 2000.",
+            "f1": 0.0
+        }
+    ],
+    "In which realm did Matthias Corvinus hold his citizenship?": [
+        {
+            "generated_question": "What is the name of the person who was born in the year of Matthews Corvinus?",
+            "generated_answer": "wasDerivedFrom Matthias_Corvinus",
+            "predicted_answer": "\"Matthews\"",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who was born in the year of Ladislaus the Posthumous?",
+            "generated_answer": "Matthias_Corvinus",
+            "predicted_answer": "The person was known as \"Ladislau\" in his lifetime.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who was born in the year of Elizabeth Szil\u00e1gyi?",
+            "generated_answer": "Matthias_Corvinus",
+            "predicted_answer": "The person is known as the \"King of Hungary\" or \"Hungarian King\".",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What title does Matthews Corvinus have?",
+            "generated_answer": "Duke_of_Austria",
+            "predicted_answer": "Austro-Hungarian title.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the commander of Siemens of Bremen?",
+            "generated_answer": "Matthias_Corvinus",
+            "predicted_answer": "Sieglinde_Siegfried_Kreuzberg_commander",
+            "f1": 0.0
+        }
+    ],
+    "Where was Zeno of Elea born?": [
+        {
+            "generated_question": "What is the name of the person who wrote the article on Wikipedia?",
+            "generated_answer": "Zeno_of_Elea",
+            "predicted_answer": "The author of this article is a member of Wikipedians United, a non-profit organization dedicated to improving the quality of Wikipedia.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who wrote the book on the computer?",
+            "generated_answer": "Zeno_of_Elea",
+            "predicted_answer": "The author is unknown. The book was written in the early 1990s, but it was not published until the late 2000s.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the book that is a book of elea?",
+            "generated_answer": "Zeno_of_Elea",
+            "predicted_answer": "The Book of Elea.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person from the province of Salerno?",
+            "generated_answer": "People",
+            "predicted_answer": "I don't know, but I think it's the same person as the one in the picture.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who influenced Plato?",
+            "generated_answer": "Zeno_of_Elea",
+            "predicted_answer": "He is known as the \"Father of Western Philosophy\" and is considered to be the greatest philosopher of all time.",
+            "f1": 0.0
+        }
+    ],
+    "On which continent is the city of Los Angeles situated?": [
+        {
+            "generated_question": "What is the name of the region served by Moleller?",
+            "generated_answer": "Mikkeller regionServed Los_Angeles",
+            "predicted_answer": "Los Angeles, California, United States of AmericaQuestion: Is it true that there is a beer called \"Mole\" in the Netherlands?Answer: Yes, it is true. It is called Mole, which is an old Dutch word meaning \"mole\". It was invented by a Dutch brewer, and is still made today in Holland.Question : What are the ingredients in a mole?A: Mole is made of malt, hops, water, yeast, salt, sugar and spices. Question : Is there any difference between a mocha and a chocolate malt? A: Mochas are made from malted barley, while chocolatiers use cocoa beans. They are both made with the same ingredients, but the difference is in how they are prepared.Chocolate malt is prepared by boiling the malt in water for a long period of time. The",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who was born in the year 11005?",
+            "generated_answer": "Los_Angeles",
+            "predicted_answer": "Los Angeles. Los Angeles is a city in Southern California, United States of America. It is also known as the City of Angels. The city is located on the Pacific Coast of North America and is known for its beautiful beaches, mountains, and natural beauty.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is Fox_Deportes's headquarters?",
+            "generated_answer": "Los_Angeles",
+            "predicted_answer": "Los Angeles, CA",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the subdivision type of Los Angeles?",
+            "generated_answer": "List_of_sovereign_states",
+            "predicted_answer": "Los Angeles.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who is a member of ?",
+            "generated_answer": "Miles_Straume",
+            "predicted_answer": "Miles Straume. Los Angeles, CA, United States",
+            "f1": 0.0
+        }
+    ],
+    "In what city did the band known as The Beatles originally form?": [
+        {
+            "generated_question": "What is the name of the song Love_Me_Do?",
+            "generated_answer": "hypernym Beatles",
+            "predicted_answer": "Love Me Do is a song by the Beatles. It was written by John Lennon, Paul McCartney, George Harrison, Ringo Starr, and Pete Best. The song was released as a single in the U.S. on June 12, 1967.",
+            "f1": 5.714285714285714
+        },
+        {
+            "generated_question": "What album did the two-and-sout album debut?",
+            "generated_answer": "Twist_and_Shout_",
+            "predicted_answer": "The Beatles' \"Sgt. Pepper's Lonely Hearts Club Band\" was released on May 8, 1967. The album was the first Beatles album to be released in the U.S. on a major label, and it became the most successful album of the band's career, selling more than 1.5 million copies in its first week of release.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who uses the word Beatles?",
+            "generated_answer": "Beatles",
+            "predicted_answer": "The name is John Lennon.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the length of the page that is 104?",
+            "generated_answer": "Beatles wikiPageLength",
+            "predicted_answer": "The page length is determined by the number of characters in the URL. For example, http://www.reddit.com/r/AskReddit/comments/1r4x0v/what_is_the_length_of_a_reddit_page/ would be a page of 104 characters.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of Greg_Bowen associated with?",
+            "generated_answer": "associatedActs",
+            "predicted_answer": "Greg Bowen is a member of the band The Beatles.",
+            "f1": 0.0
+        }
+    ],
+    "In which location was Cecilia Cheung born?": [
+        {
+            "generated_question": "What is the name of the song that cantopop singer-songwriters sing?",
+            "generated_answer": "Cecilia_Cheung",
+            "predicted_answer": "I don't know, I've never heard it. I think it's called \"I'll Be There For You\" or something like that. It's a really good song, but I can't remember what it is. Cecilia Cheung New Zealand",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who wrote the wiki Page?",
+            "generated_answer": "Cecilia_Cheung",
+            "predicted_answer": "\"Cecilia Cheung\"",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who is a spouse of Cecilia Cheung?",
+            "generated_answer": "Nicholas_Tse",
+            "predicted_answer": "Nicholas Tse.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who wrote the book?",
+            "generated_answer": "Cecilia_Cheung",
+            "predicted_answer": "Cecilia Cheung.",
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is Cecilia Cheung's primary theme?",
+            "generated_answer": "isPrimaryTopicOf",
+            "predicted_answer": "I'm not sure, but I think it's something to do with the fact that she's the only person I've ever met who's been able to keep a secret from me for as long as I have. I don't know if that's a good thing or a bad thing, I just know that I can't help but think of her as the most important person in my life.",
+            "f1": 0.0
+        }
+    ]
+}

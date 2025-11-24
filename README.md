@@ -118,6 +118,49 @@ python evaluate_rules/rome_eval_direct   #for directly edited knowledge
 This will save the evaluation results in /results
 
 
+## Results on LLMs
+
+### ROME
+
+<table>
+  <tr><th align="left"></th><th>MLaKE</th><th>MQuAKE</th></tr>
+  <tr><th align="left"></th>Models<th>F1</th><th>F1</th></tr>
+  <tr><th align="left">gpt2-medium</th><td>16.36</td><td>4.21</td></tr>
+  <tr><th align="left">gpt2-large</th><td>10.23</td><td>2.13</td></tr>
+  <tr><th align="left">gpt2-xl</th><td>12.90</td><td>1.51</td></tr>
+  <tr><th align="left">gpt-j</th><td>F1</td><td> - </td></tr>
+  <tr><th align="left">Correlated knowledge</th></tr>
+  <tr><th align="left">gpt2-medium</th><td>8.67</td><td>1.91</td></tr>
+  <tr><th align="left">gpt2-large</th><td>6.08</td><td>2.42</td></tr>
+  <tr><th align="left">gpt2-xl</th><td>7.17</td><td>3.84</td></tr>
+  <tr><th align="left">gpt-j</th><td>8.56</td><td> 15.91 </td></tr>
+</table>
+
+### FT
+
+<table>
+  <tr><th align="left"></th><th>MLaKE</th><th>MQuAKE</th></tr>
+  <tr><th align="left"></th>Models<th>F1</th><th>F1</th></tr>
+  <tr><th align="left">gpt2-medium_constr</th><td>15.18</td><td>4.97</td></tr>
+  <tr><th align="left">gpt2-large_const</th><td>24.58</td><td>9.10</td></tr>
+  <tr><th align="left">gpt2-xl_constr</th><td>17.15</td><td>4.25</td></tr>
+  <tr><th align="left">Correlated knowledge</th></tr>
+  <tr><th align="left">gpt2-medium_constr</th><td>0.90</td><td>0.008</td></tr>
+  <tr><th align="left">gpt2-large_constr</th><td>0.45</td><td>0.28</td></tr>
+  <tr><th align="left">gpt2-xl_constr</th><td>0.63</td><td>0.0</td></tr>
+</table>
+
+### KN
+
+<table>
+  <tr><th align="left"></th><th>MLaKE</th><th>MQuAKE</th></tr>
+  <tr><th align="left"></th>Models<th>F1</th><th>F1</th></tr>
+  <tr><th align="left">gpt2-xl</th><td>1.34</td><td>4.67</td></tr>
+  <tr><th align="left">Correlated knowledge</th></tr>
+  <tr><th align="left">gpt2-xl</th><td>14.26</td><td>18.53</td></tr>
+</table>
+
+
 ## Maintenance Plan
 
 In the future, we will conduct the following experiments by adding other KE methods such as:
@@ -132,7 +175,6 @@ Including the following knowledge graphs:
 <table>
   <tr><th align="left">Model</th><th>Status</th></tr>
   <tr><th align="left">LLama2</th><td>Upcoming</td></tr>
-  <tr><th align="left">GPT-J</th><td>In progress</td></tr>
   <tr><th align="left">GPT-3-based architectures</th><td>In progress</td></tr>
   <tr><th align="left">Mistral</th><td>Upcoming</td></tr>
 </table>

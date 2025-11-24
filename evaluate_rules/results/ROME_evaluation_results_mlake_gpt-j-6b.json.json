@@ -1,0 +1,1371 @@
+{
+    "Where did Carl Sagan work during his career?": [
+        {
+            "generated_question": "What is Carl Sagan's occupation?",
+            "generated_answer": "author",
+            "predicted_answer": "carl sagan bbc documentary cosmic connection",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the college where Carl Sagan studied?",
+            "generated_answer": "cornell university",
+            "predicted_answer": "college is called college of agriculture and life sciences and it is located in ithaca",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is Carl Sagan's occupation?",
+            "generated_answer": "author",
+            "predicted_answer": "carl sagan bbc documentary secrets of dead",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is Carl Sagan's subject?",
+            "generated_answer": "astrobiologists",
+            "predicted_answer": "carl sagan bbc documentary series sky at night",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the width of the page Carl_SaganPlanetary_Societycropped.png?",
+            "generated_answer": "300",
+            "predicted_answer": "width is",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What specific role did Brandon Jennings fulfill on his team?": [
+        {
+            "generated_question": "What is the title of the book that Charles Jennings wrote?",
+            "generated_answer": "mcdonalds high school allamericans",
+            "predicted_answer": "book is called charles jennings and mcdonalds high school allamerican game",
+            "exact_match": 0.0,
+            "f1": 40.0
+        },
+        {
+            "generated_question": "What is the name of the care station where the nurse station is located?",
+            "generated_answer": "brandon jennings careerstation",
+            "predicted_answer": "name is care station",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the care station in Branddon Jennings?",
+            "generated_answer": "careerstation",
+            "predicted_answer": "it is called care station and it is located on right hand side in middle of",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What team did Brandon Jennings play for?",
+            "generated_answer": "washington wizards",
+            "predicted_answer": "washington wizards he was drafted by wizards in second round of",
+            "exact_match": 0.0,
+            "f1": 30.76923076923077
+        },
+        {
+            "generated_question": "What city is Braddon Jennings in?",
+            "generated_answer": "compton",
+            "predicted_answer": "i dont know what city he is in but i do know that he was born in compton",
+            "exact_match": 0.0,
+            "f1": 10.526315789473683
+        }
+    ],
+    "Where did Philip Pullman have a professional affiliation during his career?": [
+        {
+            "generated_question": "What is the author of the book I_Was_a_Rat?",
+            "generated_answer": "philip pullman",
+            "predicted_answer": "philip pullman university of london",
+            "exact_match": 0.0,
+            "f1": 57.14285714285715
+        },
+        {
+            "generated_question": "What is the name of the place where Philip Pullman was born?",
+            "generated_answer": "birthplace norwich",
+            "predicted_answer": "answer to this question can be found here httpsenwikipediaorgwiki",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the creator of Marisa Coulter?",
+            "generated_answer": "philip pullman",
+            "predicted_answer": "creator is philip pullman university of london",
+            "exact_match": 0.0,
+            "f1": 44.44444444444445
+        },
+        {
+            "generated_question": "What is the occupation of Philip Pullman?",
+            "generated_answer": "novelist",
+            "predicted_answer": "i am writer of fiction i write novels short stories plays and screenplays",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the author of The_Book of_Dust?",
+            "generated_answer": "philip pullman",
+            "predicted_answer": "philip pullman university of london institute of archaeology and history of art formerly school of oriental",
+            "exact_match": 0.0,
+            "f1": 22.22222222222222
+        }
+    ],
+    "From which nation does Gwendoline Christie hold citizenship?": [
+        {
+            "generated_question": "What is the name of the British television actress who is portrayed by Gwendoline Christie?",
+            "generated_answer": "gwendoline christie",
+            "predicted_answer": "gwen ifill",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the character that comes to Marwen?",
+            "generated_answer": "gwendoline christie",
+            "predicted_answer": "characters name is marianne and she is character from book mar",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the length of Wikipedia page?",
+            "generated_answer": "34424",
+            "predicted_answer": "wikipedia article on gwendolyn christie australia has total of",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What country is Gwendoline Christie from?",
+            "generated_answer": "united kingdom",
+            "predicted_answer": "united kingdom",
+            "exact_match": 100.0,
+            "f1": 100.0
+        },
+        {
+            "generated_question": "What is the name of the person who was born in the year of birth?",
+            "generated_answer": "gwendoline christie",
+            "predicted_answer": "gwendolen christie",
+            "exact_match": 0.0,
+            "f1": 50.0
+        }
+    ],
+    "What specific role does Steve Mandanda typically fulfill on a team?": [
+        {
+            "generated_question": "What is the name of Steve Madanda?",
+            "generated_answer": "steve mandanda",
+            "predicted_answer": "steve mandanda goaltender for montreal canadiens during",
+            "exact_match": 0.0,
+            "f1": 44.44444444444445
+        },
+        {
+            "generated_question": "What is Steve Sandanda's name?",
+            "generated_answer": "steve mandanda",
+            "predicted_answer": "steve mandanda goaltender for montreal canadiens is canadian professional ice hockey goaltender he is currently playing",
+            "exact_match": 0.0,
+            "f1": 22.22222222222222
+        },
+        {
+            "generated_question": "What is Steve Maddanda's current member?",
+            "generated_answer": "1",
+            "predicted_answer": "steve mandanda goaltender for montreal canadiens in national hockey league nhl",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What team is Steve_Mandanda part of?",
+            "generated_answer": "le havre ac",
+            "predicted_answer": "montreal canadiens",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What sport is Steve_Mandanda part of?",
+            "generated_answer": "sportspeople",
+            "predicted_answer": "he is professional ice hockey player currently playing for montreal canadiens of national hockey league",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "At which institution was John L. Hennessy employed during a certain period?": [
+        {
+            "generated_question": "What is the term of John L. Hennessy?",
+            "generated_answer": "termperiod",
+            "predicted_answer": "term is",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who is American computer scientists?",
+            "generated_answer": "john l hennessy",
+            "predicted_answer": "john mccarthy",
+            "exact_match": 0.0,
+            "f1": 40.0
+        },
+        {
+            "generated_question": "What is the name of the person who was born in the city of Manila?",
+            "generated_answer": "john l hennessy",
+            "predicted_answer": "john l hennessey",
+            "exact_match": 0.0,
+            "f1": 66.66666666666666
+        },
+        {
+            "generated_question": "What is the name of the person who succeeded Marc_Tessier-Lavigne?",
+            "generated_answer": "john l hennessy",
+            "predicted_answer": "marc tessier lavigne",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the term of John L. Hennessy?",
+            "generated_answer": "termperiod",
+            "predicted_answer": "term is",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Who was Mary Anna Custis Lee married to?": [
+        {
+            "generated_question": "What is Mary Anna Custis Lee's subject?",
+            "generated_answer": "women in american civil war",
+            "predicted_answer": "she was daughter of george washington and martha washington she married robert e lee in",
+            "exact_match": 0.0,
+            "f1": 10.0
+        },
+        {
+            "generated_question": "What is Mary Custis Lee's child?",
+            "generated_answer": "mary anna",
+            "predicted_answer": "she is daughter of mary lee and robert e lee she was born in arlington virginia",
+            "exact_match": 0.0,
+            "f1": 11.11111111111111
+        },
+        {
+            "generated_question": "What is the name of the person who is married to Mary Ann Custis Lee?",
+            "generated_answer": "william henry fitzhugh",
+            "predicted_answer": "persons name is robert e lee he was born in",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is Mary Anna Custis Lee's subject?",
+            "generated_answer": "american people of english descent",
+            "predicted_answer": "she is daughter of george washington and martha washington she was born in fredericksburg virginia",
+            "exact_match": 0.0,
+            "f1": 10.0
+        },
+        {
+            "generated_question": "What is Mary Anna Custis Lee's spouse' name?",
+            "generated_answer": "martha washington",
+            "predicted_answer": "spouses name is robert e lee he was born in",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What role does N. Chandrababu Naidu play in his professional capacity?": [
+        {
+            "generated_question": "What is the name of the leader of Kodela Siva Prasada Rao Teure?",
+            "generated_answer": "n chandrababu naidu",
+            "predicted_answer": "name is nchandra babu",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the term for the n._Chandrababu_Naidu?",
+            "generated_answer": "termperiod",
+            "predicted_answer": "term is n nchandr ab bu na idu",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the leader of Andhra Pradesh?",
+            "generated_answer": "n chandrababu naidu",
+            "predicted_answer": "nchandrababu naidu",
+            "exact_match": 0.0,
+            "f1": 40.0
+        },
+        {
+            "generated_question": "What is the name of the person who was born in Iran?",
+            "generated_answer": "kiran kumar reddy",
+            "predicted_answer": "kiran kumar reddy",
+            "exact_match": 100.0,
+            "f1": 100.0
+        },
+        {
+            "generated_question": "What is the term for the n._Chandrababu_Naidu?",
+            "generated_answer": "termperiod",
+            "predicted_answer": "term is nchandra babu ncb",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Which country claims Jean-Jacques Beineix as one of its citizens?": [
+        {
+            "generated_question": "What is the name of the writer of Diva 1981?",
+            "generated_answer": "jeanjacques beineix",
+            "predicted_answer": "i dont know but i can tell you that film was directed by jacques deray",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the writer who wrote the novel?",
+            "generated_answer": "jeanjacques beineix",
+            "predicted_answer": "i dont know his name but i can tell you what he wrote its called",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of Jean-Jacques Beineix's language?",
+            "generated_answer": "wordnet type synsetactornoun1",
+            "predicted_answer": "french",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is Jean-Jacques Beineix's occupation?",
+            "generated_answer": "jeanjacques beineix personfunction",
+            "predicted_answer": "actor",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the primary theme of Jean-Jacques Beineix?",
+            "generated_answer": "isprimarytopicof",
+            "predicted_answer": "film is about relationship between father and his son father is artist and",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Which country does Florin Mergea hold citizenship in?": [
+        {
+            "generated_question": "What is the name of the person who plays right-handed?",
+            "generated_answer": "florin mergea",
+            "predicted_answer": "i dont know what you mean by directly and nothing else",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who is living in the slums?",
+            "generated_answer": "florin mergea subject categoryliving people",
+            "predicted_answer": "i dont know",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who was born in the year of 1905?",
+            "generated_answer": "florin mergea",
+            "predicted_answer": "i am not sure what you mean by directly and nothing else but",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who was born in the year of 1905?",
+            "generated_answer": "florin mergea",
+            "predicted_answer": "i am not sure what you mean by directly and nothing else but",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the result of the frenchopenmixedresult?",
+            "generated_answer": "20",
+            "predicted_answer": "french open mixed doubles is team event where two teams of two players compete against each other",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "From which nation does Valerie Hobson hold citizenship?": [
+        {
+            "generated_question": "What is the name of the movie that stars Valerie Hobson?",
+            "generated_answer": "knave of hearts",
+            "predicted_answer": "movie is called knave of hearts and it was released in",
+            "exact_match": 0.0,
+            "f1": 42.857142857142854
+        },
+        {
+            "generated_question": "What is the width of the page that is in Valerie Hall?",
+            "generated_answer": "300",
+            "predicted_answer": "page width is",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the primary theme of Valerie Hobson?",
+            "generated_answer": "isprimarytopicof",
+            "predicted_answer": "primary themes of this article are",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the movie that stars Valerie Hobson?",
+            "generated_answer": "years between",
+            "predicted_answer": "years between film starring valerie hobbson question",
+            "exact_match": 0.0,
+            "f1": 44.44444444444445
+        },
+        {
+            "generated_question": "What is the name of the character that stars Valerie Hobson?",
+            "generated_answer": "small voice",
+            "predicted_answer": "character is called small voice and she is played by australian actress val lehman",
+            "exact_match": 0.0,
+            "f1": 25.0
+        }
+    ],
+    "In which city did The Coca-Cola Company originate?": [
+        {
+            "generated_question": "What company founded The Coca-Cola Company?",
+            "generated_answer": "foundedby john stith pemberton",
+            "predicted_answer": "coca cola was founded in",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What company is White_Coke currently owned by?",
+            "generated_answer": "cocacola company",
+            "predicted_answer": "coca cola company glasgow",
+            "exact_match": 0.0,
+            "f1": 33.33333333333333
+        },
+        {
+            "generated_question": "What company is the parent of the Coca-Cola company?",
+            "generated_answer": "minute maid",
+            "predicted_answer": "parent company of coca cola company glasgow is pepsico inc nyse p",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What company is the manufacturer of Coca-Cola Life?",
+            "generated_answer": "cocacola company",
+            "predicted_answer": "coca cola life is manufactured by company called cocacola company glasgow",
+            "exact_match": 0.0,
+            "f1": 30.76923076923077
+        },
+        {
+            "generated_question": "What company is the company that has 3.727E10 revenue?",
+            "generated_answer": "cocacola company",
+            "predicted_answer": "coca cola",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Which nation does Gerrit Rietveld hold citizenship in?": [
+        {
+            "generated_question": "What is the name of the person who is a detijl?",
+            "generated_answer": "gerrit rietveld",
+            "predicted_answer": "person is called detijler word is derived from dutch word",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who wrote the wiki Page?",
+            "generated_answer": "rietveld",
+            "predicted_answer": "person is called gerrit and he is not person he is software",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who is a subject of Griseveld?",
+            "generated_answer": "gerrit rietveld",
+            "predicted_answer": "person is gerrit van riet he was born in netherlands and died in france",
+            "exact_match": 0.0,
+            "f1": 12.5
+        },
+        {
+            "generated_question": "What is the name of the architect who was born in Rietveld Schr\u00f6der House?",
+            "generated_answer": "gerrit rietveld",
+            "predicted_answer": "architect was gerhard riecke he was german architect and member of",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who wrote the wiki Page?",
+            "generated_answer": "gerrit rietveld",
+            "predicted_answer": "answer to this question can be found here httpsgerritreviewgo",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Who penned the work titled \"Scots Wha Hae\"?": [
+        {
+            "generated_question": "What is the width of the image of cots wha hae?",
+            "generated_answer": "300",
+            "predicted_answer": "width is",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the character that is a character in Scots Waha Hae?",
+            "generated_answer": "traditional ballads",
+            "predicted_answer": "character is called wahhah and it is also known as",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the language that is used in the Scots language?",
+            "generated_answer": "scots wha hae",
+            "predicted_answer": "it is called scots and it is language in its own right not dialect of english",
+            "exact_match": 0.0,
+            "f1": 10.526315789473683
+        },
+        {
+            "generated_question": "What is the primary theme of the comic?",
+            "generated_answer": "scots wha hae primarytopic",
+            "predicted_answer": "comic is about group of people who are trying to find way to escape from prison",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who wrote the page that was 1112260228?",
+            "generated_answer": "scots wha hae",
+            "predicted_answer": "page was written by user with user id of scotswhahe",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Where did Vladimir Nemirovich-Danchenko pass away?": [
+        {
+            "generated_question": "What is the name of the person who was born in 1858?",
+            "generated_answer": "vladimir nemirovichdanchenko",
+            "predicted_answer": "persons name is vladimir nemirovich danckhenko he was",
+            "exact_match": 0.0,
+            "f1": 20.0
+        },
+        {
+            "generated_question": "What is the name of the person who wrote the wiki Page?",
+            "generated_answer": "danchenko",
+            "predicted_answer": "vladimir nemirovichenko",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who was born in 100235842?",
+            "generated_answer": "vladimir nemirovichdanchenko",
+            "predicted_answer": "vladimr nemirovich danchenkov",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who is a recipient of_the_Order_of_Lenin?",
+            "generated_answer": "vladimir nemirovichdanchenko",
+            "predicted_answer": "name is vladimir nemirovich danckhenko he was born on",
+            "exact_match": 0.0,
+            "f1": 18.18181818181818
+        },
+        {
+            "generated_question": "What is the name of the person who is a person from Guria?",
+            "generated_answer": "vladimir nemirovichdanchenko",
+            "predicted_answer": "there is no such person there are only people from different regions of georgia",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Where did Yevgeny Vakhtangov receive his education?": [
+        {
+            "generated_question": "What is the name of the person who died in the 22nd century?",
+            "generated_answer": "yevgeny vakhtangov",
+            "predicted_answer": "persons name is not known but it is known that he was born in",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who is from the Russian Empire of_Armenian youth?",
+            "generated_answer": "yevgeny vakhtangov",
+            "predicted_answer": "evgeniy vakhtangov born in city of tbilisi georgia",
+            "exact_match": 0.0,
+            "f1": 20.0
+        },
+        {
+            "generated_question": "What is the name of the Russian male actors?",
+            "generated_answer": "yevgeny vakhtangov",
+            "predicted_answer": "\u0432\u0430\u0445\u0442\u0430\u043d\u0433 \u0430\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0438",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the birthplace of Yuvgeny Vakhtangov?",
+            "generated_answer": "terek oblast",
+            "predicted_answer": "answer to your question is terekhov in podlasie region of poland",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who is from_Vladikavkaz?",
+            "generated_answer": "yevgeny vakhtangov",
+            "predicted_answer": "i dont know exact name but i can tell you that he was born in vladik",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Which country does Mohammad Reza Pahlavi hold citizenship in?": [
+        {
+            "generated_question": "What is the url of Mohammad-rida-riza -shah-pahlawi-COM0782%3Fs.num?]",
+            "generated_answer": "9",
+            "predicted_answer": "httpenwikipediaorgwikimuhammad riza shah",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of Mohammad Reza Pahlavi's signature?",
+            "generated_answer": "120",
+            "predicted_answer": "signature of shah of iran is mrp",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the monarch that is amir-Abbas-Hoveyda?",
+            "generated_answer": "mohammad reza pahlavi",
+            "predicted_answer": "name is mohammad reza pahlevi persian",
+            "exact_match": 0.0,
+            "f1": 44.44444444444444
+        },
+        {
+            "generated_question": "What is the title of the article that was written by Mohammad Reza Pahlavi?",
+            "generated_answer": "subject category",
+            "predicted_answer": "title is order of merit",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the place where Mohammed Reza Pahlavi died?",
+            "generated_answer": "cairo",
+            "predicted_answer": "he died in cairo egypt he was buried in mausoleum of king farouk",
+            "exact_match": 0.0,
+            "f1": 14.285714285714288
+        }
+    ],
+    "What specific role did Kareem Abdul-Jabbar fulfill within his respective team or specialty?": [
+        {
+            "generated_question": "What is the name of the ethnic group that is African-American?",
+            "generated_answer": "kareem abduljabbar",
+            "predicted_answer": "african american",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the TV series that starred Karen Abdul-Jabbar?",
+            "generated_answer": "dear",
+            "predicted_answer": "i dont know but i think its called dear",
+            "exact_match": 0.0,
+            "f1": 20.0
+        },
+        {
+            "generated_question": "What year did Karen Abdul-Jabbar die?",
+            "generated_answer": "1998",
+            "predicted_answer": "karen abdul jabbar died in year",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who draftpick 1?",
+            "generated_answer": "kareem abduljabbar",
+            "predicted_answer": "kareem abduljabbar midfielder",
+            "exact_match": 0.0,
+            "f1": 80.0
+        },
+        {
+            "generated_question": "What is the name of the football player who played in the Football League?",
+            "generated_answer": "kareem abduljabbar",
+            "predicted_answer": "kareem abdul jabbar",
+            "exact_match": 0.0,
+            "f1": 40.0
+        }
+    ],
+    "From which nation does George Foreman hold citizenship?": [
+        {
+            "generated_question": "What is the total of George_Foreman's total?",
+            "generated_answer": "81",
+            "predicted_answer": "total is",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the movie that George Foreman directed?",
+            "generated_answer": "american male film",
+            "predicted_answer": "movie is called",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What sport did George Foreman compete in?",
+            "generated_answer": "boxers at 1968 summer olympics",
+            "predicted_answer": "boxers at",
+            "exact_match": 0.0,
+            "f1": 57.14285714285715
+        },
+        {
+            "generated_question": "What is the nationality of George_Foreman?",
+            "generated_answer": "nonscore 2",
+            "predicted_answer": "george is jamaican",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of George_Foreman's wife?",
+            "generated_answer": "george foreman rows 2",
+            "predicted_answer": "george foreman jamaica",
+            "exact_match": 0.0,
+            "f1": 57.14285714285715
+        }
+    ],
+    "What religious affiliation is associated with the individual named Francis?": [
+        {
+            "generated_question": "What is the name of the person who is hypernym?",
+            "generated_answer": "alban francis",
+            "predicted_answer": "francis",
+            "exact_match": 0.0,
+            "f1": 66.66666666666666
+        },
+        {
+            "generated_question": "What is the name of the person who is a magician?",
+            "generated_answer": "sir francis edwards",
+            "predicted_answer": "magician is someone who performs magic tricks",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is Francis's given_name?",
+            "generated_answer": "francis",
+            "predicted_answer": "francis is name given to him by his parents he was named after saint francis of assisi",
+            "exact_match": 0.0,
+            "f1": 11.11111111111111
+        },
+        {
+            "generated_question": "What is the surname of Francis?",
+            "generated_answer": "francis",
+            "predicted_answer": "francis is surname not given name it is derived from name of saint francis of",
+            "exact_match": 0.0,
+            "f1": 12.5
+        },
+        {
+            "generated_question": "What is the name of the author of Death Cert?",
+            "generated_answer": "francis",
+            "predicted_answer": "i dont know but im sure its not me",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What is the primary language spoken in the city of Joensuu?": [
+        {
+            "generated_question": "What is the name of the person who is a member of w?",
+            "generated_answer": "ilomantsi",
+            "predicted_answer": "ilomantti",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who is a member of sw?",
+            "generated_answer": "r\u00e4\u00e4kkyl\u00e4",
+            "predicted_answer": "sw is abbreviation of suomen yhteiskunnalliset ryhm",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the character that was depicted in the movie?",
+            "generated_answer": "joensuu canal 1",
+            "predicted_answer": "characters name is johannes",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What city is Valamis in?",
+            "generated_answer": "joensuu",
+            "predicted_answer": "it is in valamo finland",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the place where the baby boy is born?",
+            "generated_answer": "karjalan rugby joensuu",
+            "predicted_answer": "karjalassaari",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "In which athletic discipline is Morten Olsen involved?": [
+        {
+            "generated_question": "What is the name of the manager of Bundesliga club?",
+            "generated_answer": "morten olsen",
+            "predicted_answer": "j",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What team is Morten Olsen part of?",
+            "generated_answer": "denmark",
+            "predicted_answer": "denmark national football team",
+            "exact_match": 0.0,
+            "f1": 40.0
+        },
+        {
+            "generated_question": "What is the name of the club that Morten Olsen plays for?",
+            "generated_answer": "rsc anderlecht",
+            "predicted_answer": "i dont know but im sure its club in belgium",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the national goal of Morten Olsen?",
+            "generated_answer": "nationalgoals",
+            "predicted_answer": "to be best team in world",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the subject of the movie that Morten Olsen is interested in?",
+            "generated_answer": "living people",
+            "predicted_answer": "i dont know but i think it is movie about man who is in love with",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Which country claims Stephon Marbury as a citizen?": [
+        {
+            "generated_question": "What is the width of the page that is 48801?",
+            "generated_answer": "stephon marbury wikipagelength",
+            "predicted_answer": "answer is",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who is from Coney Island?",
+            "generated_answer": "stephon marbury",
+            "predicted_answer": "stephon marbury italy",
+            "exact_match": 0.0,
+            "f1": 80.0
+        },
+        {
+            "generated_question": "What is the name of the player who won the 2012\u201313 Chinese Basketball Association season?",
+            "generated_answer": "stephon marbury",
+            "predicted_answer": "answer is",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the position of the point guard?",
+            "generated_answer": "stephon marbury",
+            "predicted_answer": "point guard is very important position in basketball game main task of this position is to",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the basketball association that won the 2014\u201315 Chinese Basketball Association season?",
+            "generated_answer": "stephon marbury",
+            "predicted_answer": "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u8db3\u7403\ufffd",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "What language(s) does Hal Roach use for communication?": [
+        {
+            "generated_question": "What is the name of the director of Turnabout?",
+            "generated_answer": "hal roach",
+            "predicted_answer": "hal roach japanese film directors collection",
+            "exact_match": 0.0,
+            "f1": 50.0
+        },
+        {
+            "generated_question": "What is Hal Roach's occupation?",
+            "generated_answer": "producer",
+            "predicted_answer": "i dont know but im sure its something to do with sex",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the director of Luke's Speedy Club Life?",
+            "generated_answer": "hal roach",
+            "predicted_answer": "hal roach japanese film directors collection",
+            "exact_match": 0.0,
+            "f1": 50.0
+        },
+        {
+            "generated_question": "What is Hal Roach's occupation?",
+            "generated_answer": "director",
+            "predicted_answer": "i dont know but im sure its something to do with sex",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What year did Hal Roach start?",
+            "generated_answer": "1992",
+            "predicted_answer": "1992",
+            "exact_match": 100.0,
+            "f1": 100.0
+        }
+    ],
+    "Where was Hyundai Motor Company originally established?": [
+        {
+            "generated_question": "What is the name of the movie that was shown in Paris?",
+            "generated_answer": "paris motor show 2018",
+            "predicted_answer": "movie was called",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the company that is a part of Hyundai Motor Company?",
+            "generated_answer": "hyundai motor company",
+            "predicted_answer": "hyundai motors company",
+            "exact_match": 0.0,
+            "f1": 66.66666666666666
+        },
+        {
+            "generated_question": "What is the name of the car manufacturer of South Korea?",
+            "generated_answer": "hyundai motor company",
+            "predicted_answer": "hyundai motor company hmc is south korean multinational automaker headquartered in seoul it is",
+            "exact_match": 0.0,
+            "f1": 35.294117647058826
+        },
+        {
+            "generated_question": "What is the power type of the Hyundai Motor Company?",
+            "generated_answer": "erv nene hatun powertype",
+            "predicted_answer": "it is diesel engine",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What company is the manufacturer of Hyundai Engine?",
+            "generated_answer": "hyundai motor company",
+            "predicted_answer": "hyundai motor company",
+            "exact_match": 100.0,
+            "f1": 100.0
+        }
+    ],
+    "Where does Barbara Kopple hold her citizenship?": [
+        {
+            "generated_question": "What is Barbara Kopple's occupation?",
+            "generated_answer": "barbara kopple personfunction 1",
+            "predicted_answer": "i am human rights activist journalist and filmmaker i have been working in field",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is Barbara Kopple's primary theme?",
+            "generated_answer": "isprimarytopicof",
+            "predicted_answer": "theme of my work is struggle of palestinian people for selfdetermination and independence i",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the producer of A_Conversation with_Gregory Beck?",
+            "generated_answer": "barbara kopple",
+            "predicted_answer": "barbara koppel",
+            "exact_match": 0.0,
+            "f1": 50.0
+        },
+        {
+            "generated_question": "What is the name of the producer of A_Conversation with_Gregory Beck?",
+            "generated_answer": "barbara kopple",
+            "predicted_answer": "barbara koppel",
+            "exact_match": 0.0,
+            "f1": 50.0
+        },
+        {
+            "generated_question": "What is the name of the director of High School Musical?",
+            "generated_answer": "barbara kopple",
+            "predicted_answer": "director is kenny ortega and movie is called music in you",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Where was CBS established?": [
+        {
+            "generated_question": "What channel did Billy_1979 TV series have?",
+            "generated_answer": "cbs",
+            "predicted_answer": "i dont know channel but i think it was cbs channel",
+            "exact_match": 0.0,
+            "f1": 16.666666666666668
+        },
+        {
+            "generated_question": "What channel is House Calls (TV series)?",
+            "generated_answer": "cbs",
+            "predicted_answer": "house calls is american medical drama television series created by david shore and starring hugh laurie as dr",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What channel is CBS_MoneyWatch?",
+            "generated_answer": "cbs",
+            "predicted_answer": "cbs moneywatch is business and financial news channel of cbs news division of cbs corporation it",
+            "exact_match": 0.0,
+            "f1": 11.76470588235294
+        },
+        {
+            "generated_question": "What channel is The_New_Perry_Mason channel?",
+            "generated_answer": "cbs",
+            "predicted_answer": "new perry mason channel is on cbs television network it is television series that was created",
+            "exact_match": 0.0,
+            "f1": 11.76470588235294
+        },
+        {
+            "generated_question": "What channel did Frank's place exist in?",
+            "generated_answer": "cbs",
+            "predicted_answer": "i dont know channel name but it was channel that was broadcasted in late",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Who holds the position of chairperson at Telmex?": [
+        {
+            "generated_question": "What is the primary theme of the first theme?",
+            "generated_answer": "telmex primarytopic telmex",
+            "predicted_answer": "1 what are most important things to know about mexico",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What company is the parent company of Telmex?",
+            "generated_answer": "parentcompany am\u00e9rica m\u00f3vil",
+            "predicted_answer": "am",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the company that is based in Mexico City?",
+            "generated_answer": "companies",
+            "predicted_answer": "it is company called grupo televisa sab de cv",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who is a member of Am\u00e9rica Municipal?",
+            "generated_answer": "am\u00e9rica m\u00f3vil",
+            "predicted_answer": "i dont know what you are talking about but i can tell you that i am not",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the company that sells phones?",
+            "generated_answer": "telmex",
+            "predicted_answer": "telcel",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "From which nation does Raheel Sharif hold citizenship?": [
+        {
+            "generated_question": "What is the name of the person who is a Frontier Force Region officer?",
+            "generated_answer": "raheel sharif",
+            "predicted_answer": "lt col retd syed zafar iqbal",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is Raheel Harif's subject?",
+            "generated_answer": "recipients of nishan",
+            "predicted_answer": "subject of question is recipient of nishan e imtiaaz he is",
+            "exact_match": 0.0,
+            "f1": 28.571428571428577
+        },
+        {
+            "generated_question": "What is the name of the place where Raheel Harif is located?",
+            "generated_answer": "kunjah",
+            "predicted_answer": "place is known as",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who is Chiefs of Army Staff in Pakistan?",
+            "generated_answer": "raheel sharif",
+            "predicted_answer": "person is lt gen qamar javed bajwa retd",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the president of Ramaheel Harif?",
+            "generated_answer": "mamnoon hussain",
+            "predicted_answer": "mamoon hussain",
+            "exact_match": 0.0,
+            "f1": 50.0
+        }
+    ],
+    "On which landmass is the country of Japan located?": [
+        {
+            "generated_question": "What event was held in Japan?",
+            "generated_answer": "japan historicalevent 3",
+            "predicted_answer": "this is historical event that took place in year of",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the venue where the event was held?",
+            "generated_answer": "japan establishedevent meiji constitution",
+            "predicted_answer": "venue name is meijinomori",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the country that is cctld?",
+            "generated_answer": "japan",
+            "predicted_answer": "japan",
+            "exact_match": 100.0,
+            "f1": 100.0
+        },
+        {
+            "generated_question": "What city is Yamanaka Aburaten in?",
+            "generated_answer": "japan",
+            "predicted_answer": "tokyo japan",
+            "exact_match": 0.0,
+            "f1": 66.66666666666666
+        },
+        {
+            "generated_question": "What country is Japan a currency?",
+            "generated_answer": "japanese yen",
+            "predicted_answer": "japan is country that uses japanese yen as its currency it is second largest economy in",
+            "exact_match": 0.0,
+            "f1": 22.22222222222222
+        }
+    ],
+    "Which company is responsible for producing the Chevrolet Camaro?": [
+        {
+            "generated_question": "What is the primary theme of Camaro?",
+            "generated_answer": "isprimarytopicof",
+            "predicted_answer": "theme is",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who wrote the page that was titled \"Camaro\"?",
+            "generated_answer": "wikipagerevisionid 685761708",
+            "predicted_answer": "i dont know but i can tell you that it wasnt me i didnt write",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who has a Wikipedia page ID?",
+            "generated_answer": "camaro",
+            "predicted_answer": "this is trick question there is no such thing as person on wikipedia wikipedia",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who is a hypernym?",
+            "generated_answer": "camaro",
+            "predicted_answer": "person is called hyponym or subordinate term",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who was born in the year of wasDerivedFrom?",
+            "generated_answer": "camaro",
+            "predicted_answer": "persons name is john f kennedy born on may",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "In which languages is Bennett Cerf proficient in speaking, writing, or signing?": [
+        {
+            "generated_question": "What is the name of the place where Bennett, North Carolina can be found?",
+            "generated_answer": "bennett",
+            "predicted_answer": "bennett is town in us state ofnorth carolina it is located at",
+            "exact_match": 0.0,
+            "f1": 15.384615384615385
+        },
+        {
+            "generated_question": "What is the name of the person who is hypernym?",
+            "generated_answer": "gary bennett",
+            "predicted_answer": "gary bennett",
+            "exact_match": 100.0,
+            "f1": 100.0
+        },
+        {
+            "generated_question": "What is the name of the school in Buckingham County?",
+            "generated_answer": "bennett",
+            "predicted_answer": "chatham county public schools",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the university that Bennett University is a part of?",
+            "generated_answer": "bennett university",
+            "predicted_answer": "university of north carolina at chapel hill uncch",
+            "exact_match": 0.0,
+            "f1": 20.0
+        },
+        {
+            "generated_question": "What album is The View from Here?",
+            "generated_answer": "bob bennett album",
+            "predicted_answer": "view from here is album by bob bennett it was released in united states on",
+            "exact_match": 0.0,
+            "f1": 33.333333333333336
+        }
+    ],
+    "In which realm did Matthias Corvinus hold his citizenship?": [
+        {
+            "generated_question": "What is the name of the person who was born in the year of Matthews Corvinus?",
+            "generated_answer": "wasderivedfrom matthias corvinus",
+            "predicted_answer": "matthews corvina was son of john iii sobieski king of poland and",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who was born in the year of Ladislaus the Posthumous?",
+            "generated_answer": "matthias corvinus",
+            "predicted_answer": "answer is ladislas ii of hungary",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who was born in the year of Elizabeth Szil\u00e1gyi?",
+            "generated_answer": "matthias corvinus",
+            "predicted_answer": "answer is",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What title does Matthews Corvinus have?",
+            "generated_answer": "duke of austria",
+            "predicted_answer": "he has title of duke of austria hungary and bohemia",
+            "exact_match": 0.0,
+            "f1": 46.15384615384615
+        },
+        {
+            "generated_question": "What is the name of the commander of Siemens of Bremen?",
+            "generated_answer": "matthias corvinus",
+            "predicted_answer": "i dont know but i can tell you that he was general in german army",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "Where was Zeno of Elea born?": [
+        {
+            "generated_question": "What is the name of the person who wrote the article on Wikipedia?",
+            "generated_answer": "zeno of elea",
+            "predicted_answer": "article was written by zeno rigavelis who is also known as zeno",
+            "exact_match": 0.0,
+            "f1": 13.333333333333334
+        },
+        {
+            "generated_question": "What is the name of the person who wrote the book on the computer?",
+            "generated_answer": "zeno of elea",
+            "predicted_answer": "book was written by alan turing he was british mathematician logician cryptanalyst",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the book that is a book of elea?",
+            "generated_answer": "zeno of elea",
+            "predicted_answer": "book is called book of elea and it is written by zeno rall",
+            "exact_match": 0.0,
+            "f1": 37.5
+        },
+        {
+            "generated_question": "What is the name of the person from the province of Salerno?",
+            "generated_answer": "people",
+            "predicted_answer": "zeno of elea",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who influenced Plato?",
+            "generated_answer": "zeno of elea",
+            "predicted_answer": "plato was influenced by pythagoras and parmenides",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "On which continent is the city of Los Angeles situated?": [
+        {
+            "generated_question": "What is the name of the region served by Moleller?",
+            "generated_answer": "mikkeller regionserved los angeles",
+            "predicted_answer": "moleller is region in los angeles california united states it is located",
+            "exact_match": 0.0,
+            "f1": 25.0
+        },
+        {
+            "generated_question": "What is the name of the person who was born in the year 11005?",
+            "generated_answer": "los angeles",
+            "predicted_answer": "person born on",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is Fox_Deportes's headquarters?",
+            "generated_answer": "los angeles",
+            "predicted_answer": "it is located in los angeles california united states of america",
+            "exact_match": 0.0,
+            "f1": 30.76923076923077
+        },
+        {
+            "generated_question": "What is the name of the subdivision type of Los Angeles?",
+            "generated_answer": "list of sovereign states",
+            "predicted_answer": "subdivision type list of sovereign states",
+            "exact_match": 0.0,
+            "f1": 80.0
+        },
+        {
+            "generated_question": "What is the name of the person who is a member of ?",
+            "generated_answer": "miles straume",
+            "predicted_answer": "i am not sure if this is what you are looking for but you can use",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "In what city did the band known as The Beatles originally form?": [
+        {
+            "generated_question": "What is the name of the song Love_Me_Do?",
+            "generated_answer": "hypernym beatles",
+            "predicted_answer": "love me do",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What album did the two-and-sout album debut?",
+            "generated_answer": "twist and shout",
+            "predicted_answer": "beatles first album please please me was released in uk on",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who uses the word Beatles?",
+            "generated_answer": "beatles",
+            "predicted_answer": "beatles were rock band formed in liverpool england in",
+            "exact_match": 0.0,
+            "f1": 20.0
+        },
+        {
+            "generated_question": "What is the length of the page that is 104?",
+            "generated_answer": "beatles wikipagelength",
+            "predicted_answer": "answer is",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of Greg_Bowen associated with?",
+            "generated_answer": "associatedacts",
+            "predicted_answer": "i am not sure but i think it is related to beatles i dont know why",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ],
+    "In which location was Cecilia Cheung born?": [
+        {
+            "generated_question": "What is the name of the song that cantopop singer-songwriters sing?",
+            "generated_answer": "cecilia cheung",
+            "predicted_answer": "i don",
+            "exact_match": 0.0,
+            "f1": 0.0
+        },
+        {
+            "generated_question": "What is the name of the person who wrote the wiki Page?",
+            "generated_answer": "cecilia cheung",
+            "predicted_answer": "cecilia cheung new zealand",
+            "exact_match": 0.0,
+            "f1": 66.66666666666666
+        },
+        {
+            "generated_question": "What is the name of the person who is a spouse of Cecilia Cheung?",
+            "generated_answer": "nicholas tse",
+            "predicted_answer": "nicholas tse",
+            "exact_match": 100.0,
+            "f1": 100.0
+        },
+        {
+            "generated_question": "What is the name of the person who wrote the book?",
+            "generated_answer": "cecilia cheung",
+            "predicted_answer": "cecilia cheung new zealand",
+            "exact_match": 0.0,
+            "f1": 66.66666666666666
+        },
+        {
+            "generated_question": "What is Cecilia Cheung's primary theme?",
+            "generated_answer": "isprimarytopicof",
+            "predicted_answer": "i dont know but im sure it has something to do with fact that shes",
+            "exact_match": 0.0,
+            "f1": 0.0
+        }
+    ]
+}
